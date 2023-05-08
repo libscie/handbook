@@ -11,6 +11,9 @@ book:
     - summary.qmd
     - references.qmd
 
+execute:
+  freeze: auto
+  
 bibliography: references.bib
 
 format:
