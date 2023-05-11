@@ -1,5 +1,29 @@
 ---
 title: "Event policy"
-subtitle: "Open source tools for scientific and technical publishing"
+format:
+  html:
+    toc: true
 ---
 
+We consider any gathering of people, at our request, an event.
+
+## Rules
+
+1. We will be running all our events virtually by default.
+2. Local in-person events are permitted when a clear added value is documented.
+3. Everywhere we can go in 8 hours with public transport is considered local.
+4. In-person events only happen with the consent of attendees.
+5. Hybrid events are organized as virtual first.
+6. The event policy applies to both internal and external events
+
+::: {.callout-note}
+For more detailed explanations, see our latest blog on our [Event policy](https://libscie.org/introducing-our-event-policy/)
+:::
+
+<!-- ## Exceptions
+
+## Scenario's
+
+### Scenario 1
+
+We are invited to do a workshop, for which we are paid. This workshop is taking place  -->

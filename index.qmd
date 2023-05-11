@@ -1,23 +1,21 @@
 ---
 title: "Welcome to Liberate Science 🤩"
+format: html
 # subtitle: "Open source tools for scientific and technical publishing"
 ---
 
-This is the handbook with as much relevant information as possible. Missing somethign
+This is our joint handbook, where we collect all the resources needed to create a shared understanding of how we work. 
+
+How we work is continuously evolving, so we encourage suggested edits! On that note, also be sure to check back regularly to stay up to speed. This handbook is ours to co-create.
+
+<!-- # Getting started
+
+If you're completely new here, check out our Onboarding  -->
+
+<!-- # How does this work?
+
+Anyone can suggest edits. It's a bit like Wikipedia that way. But that does not mean that your edits will be incorporated immediately either. 
 
 ::: {.callout-note}
-Note that there are five types of callouts, including:
-`note`, `warning`, `important`, `tip`, and `caution`.
-:::
-
-## Goals
-
-The overarching goal of Quarto is to make the process of creating and collaborating on scientific and technical documents dramatically better. We hope to do this in several dimensions:
-
--   Create a writing and publishing environment with great integrated tools for technical content. We want to make authoring with embedded code, equations, figures, complex diagrams, interactive widgets, citations, cross references, and the myriad other special requirements of scientific discourse straightforward and productive for everyone.
-
--   Help authors take full advantage of the web as a connected, interactive platform for communications, while still providing the ability to create excellent printed output from the same document source. Researchers shouldn't need to choose between LaTeX, MS Word, and HTML but rather be able to author documents that target all of them at the same time.
-
--   Make reproducible research and publications the norm rather than the exception. Reproducibility requires that the code and data required to create a manuscript are an integrated part of it. However, this isn't often straightforward in practice---Quarto aims to make it easier to adopt a reproducible workflow than not.
-
-Quarto is open source software licensed under the [GNU GPL v2](license.qmd). We believe that it's better for everyone if the tools used for research and science are free and open. Reproducibility, widespread sharing of knowledge and techniques, and the leveling of the playing field by eliminating cost barriers are but a few of the shared benefits of free software in science.
+All changes are tracked over time. So 
+::: -->
