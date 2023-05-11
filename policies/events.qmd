@@ -1,0 +1,5 @@
+---
+title: "Event policy"
+subtitle: "Open source tools for scientific and technical publishing"
+---
+

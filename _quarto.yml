@@ -1,15 +1,92 @@
+# See https://github.com/quarto-dev/quarto-web/blob/main/_quarto.yml
+# Contains examples on how to set up
 project:
-  type: book
-  # type: website
+  type: website
   output-dir: docs
-book:
-  title: "LibScie Policies"
-  author: "Liberate Science GmbH"
-  chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+
+website:
+  title: "Policies for Liberate Science GmbH"
+  image: "logo.png"
+  # favicon: "favicon.png"
+  open-graph: true
+  site-url: https://libscie.org
+  repo-url: https://github.com/libscie/policy
+  issue-url: https://github.com/libscie/policy/issues/new/choose
+  repo-actions: [edit, issue]
+  page-navigation: true
+  # search:
+  #   type: overlay
+  #   algolia:
+  #     index-name: prod_QUARTO
+  #     application-id: ZPJB5I1QN7
+  #     search-only-api-key: 41be6c1e0a7fea4a51b107810facf577
+  #     analytics-events: true
+  #     show-logo: true
+  page-footer:
+    left:
+      - text: "CC0 Public Domain Dedication"
+        href: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+    right:
+      - icon: github
+        href: https://github.com/libscie
+        aria-label: Liberate Science GmbH GitHub
+      - icon: rss
+        href: https://quarto.org/docs/blog/index.xml
+        aria-label: LibScie Blog RSS   
+      - icon: mastodon
+        href: https://akademienl.social/@libscie
+        aria-label: LibScie Mastodon
+  navbar:
+    background: light
+    logo: logo.png
+    logo-alt: "LibScie logo"
+    title: false
+    collapse-below: lg
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Onboarding"
+        menu:
+          - text: "Discord"
+            href: "onboarding/discord.qmd"
+          - text: "ResearchEquals"
+            href: "onboarding/researchequals.qmd"
+      - text: "Policies"
+        menu:
+          - text: "Code of Conduct"
+            href: "https://researchequals.com/stats"
+          - text: "Events"
+            href: "policies/events.qmd"
+      - text: "Help"
+        menu:
+          - text: "Report a Bug"
+            icon: "bug"
+            href: "https://github.com/libscie/policy/issues"
+          - text: "Ask a Question"
+            icon: "chat-right-text"
+            href: "https://github.com/libscie/policy/discussions"
+    tools:
+      - icon: github
+        href: https://github.com/libscie
+        text: Liberate Science GmbH GitHub
+      - icon: rss
+        href: https://quarto.org/docs/blog/index.xml
+        text: LibScie Blog RSS
+      - icon: mastodon
+        href: https://akademienl.social/@libscie
+        aria-label: LibScie Mastodon
+
+    sidebar:
+    - id: get-started
+      title: "Get Started"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - index.qmd
+        - intro.qmd
+        - summary.qmd
+        - references.qmd
 
 execute:
   freeze: auto
@@ -18,5 +95,13 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo]
+    code-copy: true
+    code-overflow: wrap
+    # css: styles.css
+    # include-after-body: js.html
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
 
