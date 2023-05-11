@@ -42,12 +42,9 @@ website:
         href: index.qmd
       - text: "Onboarding"
         menu:
-          - text: "Discord"
-            href: "onboarding/discord.qmd"
-          - text: "GitHub"
-            href: "onboarding/github.qmd"
-          - text: "ResearchEquals"
-            href: "onboarding/researchequals.qmd"
+          - href: "onboarding/discord.qmd"
+          - href: "onboarding/github.qmd"
+          - href: "onboarding/researchequals.qmd"
       - text: "Policies"
         menu:
           - text: "Code of Conduct"

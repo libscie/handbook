@@ -1,21 +1,20 @@
 ---
-title: "Welcome to Liberate Science 🤩"
+title: "Welcome to the Liberate Science handbook 📚🤩"
 format: html
 # subtitle: "Open source tools for scientific and technical publishing"
 ---
 
-This is our joint handbook, where we collect all the resources needed to create a shared understanding of how we work. 
+This is our collective handbook, where we collect the resources needed to create a shared understanding of how we work. Some of it is descriptive (how we actually work), some of it is prescriptive (how we should work). 
 
-How we work is continuously evolving, so we encourage suggested edits! On that note, also be sure to check back regularly to stay up to speed. This handbook is ours to co-create.
+This handbook applies to both employees, contractors, volunteers, and otherwise.
 
-<!-- # Getting started
+How we work is continuously evolving, so we encourage suggested edits! This also means reading up regularly to ensure you are aware of changes.
 
-If you're completely new here, check out our Onboarding  -->
+[^1]: LibScie is the preferred acronym of Liberate Science.
 
-<!-- # How does this work?
+## Where to start?
 
-Anyone can suggest edits. It's a bit like Wikipedia that way. But that does not mean that your edits will be incorporated immediately either. 
-
-::: {.callout-note}
-All changes are tracked over time. So 
-::: -->
+* Completely new? Go through the onboarding pages.
+* Need a refresher? Each page starts with a summary!
+* Need to find something specific? Use the full-text search in the top-right corner!
+* Want to explore? Look at the index to find all topics included.

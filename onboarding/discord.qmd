@@ -1,5 +1,40 @@
 ---
-title: "Event policy"
-subtitle: "Open source tools for scientific and technical publishing"
+title: "Using Discord"
 ---
 
+::: {.callout-tip}
+## Summary
+
+Discord is where we gather our ResearchEquals community of practice. You can [join the Discord server]([![Discord online](https://img.shields.io/discord/933331539276759070?label=discord&style=flat-square)](https://discord.gg/SefsGJWWSw)) and take part in the (voice) chat, activities, and sharing that takes place there.
+:::
+
+## What is Discord?
+
+Discord is an asynchronous communication channel. It is very similar to Slack, if you are familiar.
+
+Discord consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.
+
+In each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation.
+
+## Why Discord?
+
+We primarily use Discord because it has...
+
+* ...great audio connectivity (almost like you're on the phone!)
+* ...reduces Zoom fatigue (video off by default)
+* ...allows us to invite many people without limitations (costs are not per user, but for added features)
+* ...great moderation features
+
+## Getting started
+
+- [ ] [Create a Discord account](https://discord.com/register)
+- [ ] [Join the ResearchEquals server](https://discord.gg/SefsGJWWSw)
+- [ ] Read the house rules
+- [ ] Introduce yourself in `#general`
+- [ ] Go into an audio channel and see how it works
+
+## Getting help
+
+We're a pretty friendly bunch in there. If you need any assistance, ask in `#help`. No matter whether it's debugging your audio or how to create your own Discord server - somebody will help you out!
+
+In the case of somebody being a pain, tag `@mods` and we will check it out. We do not tolerate any direct or indirect hate speech (see also our [Code of Conduct](https://researchequals.com/coc)).
