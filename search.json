@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "policies/events.html",
+    "href": "policies/events.html",
+    "title": "Event policy",
+    "section": "",
+    "text": "We consider any gathering of people, at our request, an event."
+  },
+  {
+    "objectID": "policies/events.html#rules",
+    "href": "policies/events.html#rules",
+    "title": "Event policy",
+    "section": "Rules",
+    "text": "Rules\n\nWe will be running all our events virtually by default.\nLocal in-person events are permitted when a clear added value is documented.\nEverywhere we can go in 8 hours with public transport is considered local.\nIn-person events only happen with the consent of attendees.\nHybrid events are organized as virtual first.\nThe event policy applies to both internal and external events\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our latest blog on our Event policy"
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
@@ -18,14 +32,7 @@
     "href": "index.html",
     "title": "Welcome to Liberate Science 🤩",
     "section": "",
-    "text": "This is the handbook with as much relevant information as possible. Missing somethign"
-  },
-  {
-    "objectID": "index.html#goals",
-    "href": "index.html#goals",
-    "title": "Welcome to Liberate Science 🤩",
-    "section": "Goals",
-    "text": "Goals\nThe overarching goal of Quarto is to make the process of creating and collaborating on scientific and technical documents dramatically better. We hope to do this in several dimensions:\n\nCreate a writing and publishing environment with great integrated tools for technical content. We want to make authoring with embedded code, equations, figures, complex diagrams, interactive widgets, citations, cross references, and the myriad other special requirements of scientific discourse straightforward and productive for everyone.\nHelp authors take full advantage of the web as a connected, interactive platform for communications, while still providing the ability to create excellent printed output from the same document source. Researchers shouldn’t need to choose between LaTeX, MS Word, and HTML but rather be able to author documents that target all of them at the same time.\nMake reproducible research and publications the norm rather than the exception. Reproducibility requires that the code and data required to create a manuscript are an integrated part of it. However, this isn’t often straightforward in practice—Quarto aims to make it easier to adopt a reproducible workflow than not.\n\nQuarto is open source software licensed under the GNU GPL v2. We believe that it’s better for everyone if the tools used for research and science are free and open. Reproducibility, widespread sharing of knowledge and techniques, and the leveling of the playing field by eliminating cost barriers are but a few of the shared benefits of free software in science."
+    "text": "This is our joint handbook, where we collect all the resources needed to create a shared understanding of how we work.\nHow we work is continuously evolving, so we encourage suggested edits! On that note, also be sure to check back regularly to stay up to speed. This handbook is ours to co-create."
   },
   {
     "objectID": "summary.html",
