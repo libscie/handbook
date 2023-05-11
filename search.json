@@ -28,11 +28,53 @@
     "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nReferences\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
+    "objectID": "onboarding/discord.html",
+    "href": "onboarding/discord.html",
+    "title": "Using Discord",
+    "section": "",
+    "text": "Summary\n\n\n\nDiscord is where we gather our ResearchEquals community of practice. You can join the Discord server and take part in the (voice) chat, activities, and sharing that takes place there."
+  },
+  {
+    "objectID": "onboarding/discord.html#what-is-discord",
+    "href": "onboarding/discord.html#what-is-discord",
+    "title": "Using Discord",
+    "section": "What is Discord?",
+    "text": "What is Discord?\nDiscord is an asynchronous communication channel. It is very similar to Slack, if you are familiar.\nDiscord consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.\nIn each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation."
+  },
+  {
+    "objectID": "onboarding/discord.html#why-discord",
+    "href": "onboarding/discord.html#why-discord",
+    "title": "Using Discord",
+    "section": "Why Discord?",
+    "text": "Why Discord?\nWe primarily use Discord because it has…\n\n…great audio connectivity (almost like you’re on the phone!)\n…reduces Zoom fatigue (video off by default)\n…allows us to invite many people without limitations (costs are not per user, but for added features)\n…great moderation features"
+  },
+  {
+    "objectID": "onboarding/discord.html#getting-started",
+    "href": "onboarding/discord.html#getting-started",
+    "title": "Using Discord",
+    "section": "Getting started",
+    "text": "Getting started\n\nCreate a Discord account\nJoin the ResearchEquals server\nRead the house rules\nIntroduce yourself in #general\nGo into an audio channel and see how it works"
+  },
+  {
+    "objectID": "onboarding/discord.html#getting-help",
+    "href": "onboarding/discord.html#getting-help",
+    "title": "Using Discord",
+    "section": "Getting help",
+    "text": "Getting help\nWe’re a pretty friendly bunch in there. If you need any assistance, ask in #help. No matter whether it’s debugging your audio or how to create your own Discord server - somebody will help you out!\nIn the case of somebody being a pain, tag @mods and we will check it out. We do not tolerate any direct or indirect hate speech (see also our Code of Conduct)."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Liberate Science 🤩",
+    "title": "Welcome to the Liberate Science handbook 📚🤩",
     "section": "",
-    "text": "This is our joint handbook, where we collect all the resources needed to create a shared understanding of how we work.\nHow we work is continuously evolving, so we encourage suggested edits! On that note, also be sure to check back regularly to stay up to speed. This handbook is ours to co-create."
+    "text": "This is our collective handbook, where we collect the resources needed to create a shared understanding of how we work. Some of it is descriptive (how we actually work), some of it is prescriptive (how we should work).\nThis handbook applies to both employees, contractors, volunteers, and otherwise.\nHow we work is continuously evolving, so we encourage suggested edits! This also means reading up regularly to ensure you are aware of changes."
+  },
+  {
+    "objectID": "index.html#where-to-start",
+    "href": "index.html#where-to-start",
+    "title": "Welcome to the Liberate Science handbook 📚🤩",
+    "section": "Where to start?",
+    "text": "Where to start?\n\nCompletely new? Go through the onboarding pages.\nNeed a refresher? Each page starts with a summary!\nNeed to find something specific? Use the full-text search in the top-right corner!\nWant to explore? Look at the index to find all topics included."
   },
   {
     "objectID": "summary.html",
