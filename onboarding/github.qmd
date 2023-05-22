@@ -83,4 +83,4 @@ If you need assistance at any time, ask in the `#help` channel on Discord. You d
 
 ## Saying hello 👋
 
-- Chris Hartgerink - @chartgerink - I enjoy writing on [my personal blog](https://chjh.nl)
+- Chris Hartgerink - [`@chartgerink`](https://github.com/chartgerink) - I enjoy writing on [my personal blog](https://chjh.nl)
