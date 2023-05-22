@@ -10,9 +10,9 @@ Discord is where we gather our ResearchEquals community of practice. You can [jo
 
 ## What is Discord?
 
-Discord is an asynchronous communication channel. It is very similar to Slack, if you are familiar.
+Discord is an asynchronous communication tool. It is very similar to Slack, if you are familiar. You can send messages to individuals, to public or private channels, and have conference calls.
 
-Discord consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.
+Discord as a whole consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.
 
 In each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation.
 
@@ -21,17 +21,19 @@ In each server, there are channels. Most of these are text channels, where you c
 We primarily use Discord because it has...
 
 * ...great audio connectivity (almost like you're on the phone!)
-* ...reduces Zoom fatigue (video off by default)
-* ...allows us to invite many people without limitations (costs are not per user, but for added features)
+* ...reduces fatigue (video off by default)
+* ...allows us to invite many people without worrying about costs
 * ...great moderation features
 
 ## Getting started
 
+Here's a checklist so that you can get started. 
+
 - [ ] [Create a Discord account](https://discord.com/register)
 - [ ] [Join the ResearchEquals server](https://discord.gg/SefsGJWWSw)
 - [ ] Read the house rules
-- [ ] Introduce yourself in `#general`
-- [ ] Go into an audio channel and see how it works
+- [ ] Introduce yourself in `#general`: What brought you here? What is something you want people to know about you? 
+- [ ] Go into the `Lounge` audio channel and try it out!
 
 ## Getting help
 
