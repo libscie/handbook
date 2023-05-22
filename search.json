@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "policies/meetings.html",
+    "href": "policies/meetings.html",
+    "title": "Meeting policy",
+    "section": "",
+    "text": "Summary\n\n\n\nWe have a love-hate relationship with meetings. This policy helps us keep it on the love side and less on the hate side. In short: synchronous meetings need a purpose; be considerate of each other’s time."
+  },
+  {
+    "objectID": "policies/meetings.html#summary-1",
+    "href": "policies/meetings.html#summary-1",
+    "title": "Meeting policy",
+    "section": "Summary",
+    "text": "Summary\n\nMeetings are an activity - if you are not active, ask why you’re there.\n\nMeetings longer than 15 minutes need to have a purpose.\nMeetings longer than 30 minutes need an agenda.\nMeeting minutes are taken by everyone present."
+  },
+  {
+    "objectID": "policies/meetings.html#w",
+    "href": "policies/meetings.html#w",
+    "title": "Meeting policy",
+    "section": "W",
+    "text": "W"
+  },
+  {
     "objectID": "policies/events.html",
     "href": "policies/events.html",
     "title": "Event policy",
@@ -11,7 +32,7 @@
     "href": "policies/events.html#rules",
     "title": "Event policy",
     "section": "Rules",
-    "text": "Rules\n\nWe will be running all our events virtually by default.\nLocal in-person events are permitted when a clear added value is documented.\nEverywhere we can go in 8 hours with public transport is considered local.\nIn-person events only happen with the consent of attendees.\nHybrid events are organized as virtual first.\nThe event policy applies to both internal and external events\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our latest blog on our Event policy"
+    "text": "Rules\n\nWe run all our events virtually by default.\nLocal in-person events are permitted when a clear added value is documented.\nEverywhere we can go in 8 hours with public transport is considered local.\nIn-person events only happen with the consent of attendees.\nHybrid events are organized as virtual first.\nThe event policy applies to both internal and external events\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Event policy"
   },
   {
     "objectID": "references.html",
@@ -28,6 +49,83 @@
     "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nReferences\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
+    "objectID": "onboarding/github.html",
+    "href": "onboarding/github.html",
+    "title": "Using GitHub",
+    "section": "",
+    "text": "Summary\n\n\n\nWe share a lot of our work open source on GitHub: This handbook, our code, and much more. Open source also means anybody can propose changes - it is a critical tool for how we invite you to co-create."
+  },
+  {
+    "objectID": "onboarding/github.html#why-github",
+    "href": "onboarding/github.html#why-github",
+    "title": "Using GitHub",
+    "section": "Why GitHub?",
+    "text": "Why GitHub?\nGitHub is a place for people to gather, create, and share their work publicly.\nFor us, sharing our work on GitHub is about ensuring that we are open about how we create things. Working open is not only about sharing the end results, but about actively inviting people into the process. GitHub is an essential tool to do this, and anything we write is open source.\nGitHub was originally intended for code, but don’t let that scare you - we are here to help you along the way and get you the skills you need. We are using it for writing like this handbook too!"
+  },
+  {
+    "objectID": "onboarding/github.html#getting-started",
+    "href": "onboarding/github.html#getting-started",
+    "title": "Using GitHub",
+    "section": "Getting started",
+    "text": "Getting started\nHere’s what you will need to be able to do:\n\nUnderstand general terminology\nStart discussions\nParticipate and check-in on discussions\nParticipate in reviews\nSuggest edits to existing documents\n\nWe will walk you through everything, step by step. If you already know this, feel free to skip to the Exercises 😊"
+  },
+  {
+    "objectID": "onboarding/github.html#terminology",
+    "href": "onboarding/github.html#terminology",
+    "title": "Using GitHub",
+    "section": "Terminology",
+    "text": "Terminology\n\nRepositories\nOn your computer, you may have folders for different projects. On GitHub, instead of folders, you have “repositories.” Each repository contains that project’s files. For example, the repository for this handbook contains this entire website.\nEach repository contains a history of all the changes. This is helpful because it allows us to always go back to older versions if things go horribly wrong.\nYou can watch, fork, and star a repository. Watching a repository is subscribing to its updates (you will receive notifications of ongoing discussions). Forking a repository means creating your own copy of it. Starring a repository saves it as a favorite (an important metric for popularity too).\n\n\nIssues\nIssues are the primary place for open questions. Each repository has a so-called “issue tracker.” This is a great place to make suggestions and participate in discussions on how to change things.\nAnybody on GitHub can start an issue, so opening an issue does not mean it will be resolved. When opening an issue, it is important to communicate effectively and focus on making sure you provide all the relevant information to understand what needs to be resolved (communicate for the person reading it).\n\n\nPull Requests\nA repository goes through many changes - a pull request (PR) is a proposed change that is requested to be incorporated into the main version. It is good practice to only make changes using pull requests when a project hits the first complete version.\nWe maintain a “minimal pull request” standard. This makes it easier to manage many changes over time, as the energy needed to understand one pull request remains minimal. For example, if you’re substantially editing this page in the handbook, you might realize you also found a typo in another page. A minimal pull request would mean you separate the edits for this page and the typo on the other page into two pull requests. It may also mean you split the edits on this page into multiple pull requests if they are unrelated (e.g., correcting typo’s and adding a whole new section)."
+  },
+  {
+    "objectID": "onboarding/github.html#starting-discussions",
+    "href": "onboarding/github.html#starting-discussions",
+    "title": "Using GitHub",
+    "section": "Starting discussions",
+    "text": "Starting discussions"
+  },
+  {
+    "objectID": "onboarding/github.html#participate-and-check-in-on-discussions",
+    "href": "onboarding/github.html#participate-and-check-in-on-discussions",
+    "title": "Using GitHub",
+    "section": "Participate and check-in on discussions",
+    "text": "Participate and check-in on discussions"
+  },
+  {
+    "objectID": "onboarding/github.html#participate-in-reviews",
+    "href": "onboarding/github.html#participate-in-reviews",
+    "title": "Using GitHub",
+    "section": "Participate in reviews",
+    "text": "Participate in reviews"
+  },
+  {
+    "objectID": "onboarding/github.html#suggest-edits-to-existing-documents",
+    "href": "onboarding/github.html#suggest-edits-to-existing-documents",
+    "title": "Using GitHub",
+    "section": "Suggest edits to existing documents",
+    "text": "Suggest edits to existing documents\n\n\n\nThat is pretty much it. Creating new repositories are for specific roles only, so if your role requires it, you will receive additional training. Overall, there is a lot more to GitHub, and this is to get you started. Don’t try to learn everything at once (it’s a lot!). More often than not, you only need to know a few things - not all the technical details. 😊"
+  },
+  {
+    "objectID": "onboarding/github.html#exercises",
+    "href": "onboarding/github.html#exercises",
+    "title": "Using GitHub",
+    "section": "Exercises",
+    "text": "Exercises\n\nCreate a GitHub account\nTake a look at the various repositories of Liberate Science GmbH. Watch or favorite any of relevance to you 🌟\nPropose an edit to this page, adding your name and GitHub username to the bottom of this page (include something about you that you’d like to share).\nInvite the person above you in the list to review your edit"
+  },
+  {
+    "objectID": "onboarding/github.html#getting-help",
+    "href": "onboarding/github.html#getting-help",
+    "title": "Using GitHub",
+    "section": "Getting help",
+    "text": "Getting help\nIf you need assistance at any time, ask in the #help channel on Discord. You don’t have to learn on your own, and when you ask questions you can learn from all the expertise available in the community 🤩"
+  },
+  {
+    "objectID": "onboarding/github.html#saying-hello",
+    "href": "onboarding/github.html#saying-hello",
+    "title": "Using GitHub",
+    "section": "Saying hello 👋",
+    "text": "Saying hello 👋\n\nChris Hartgerink - (chartgerink?) - I enjoy writing on my personal blog"
+  },
+  {
     "objectID": "onboarding/discord.html",
     "href": "onboarding/discord.html",
     "title": "Using Discord",
@@ -39,40 +137,40 @@
     "href": "onboarding/discord.html#what-is-discord",
     "title": "Using Discord",
     "section": "What is Discord?",
-    "text": "What is Discord?\nDiscord is an asynchronous communication channel. It is very similar to Slack, if you are familiar.\nDiscord consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.\nIn each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation."
+    "text": "What is Discord?\nDiscord is an asynchronous communication tool. It is very similar to Slack, if you are familiar. You can send messages to individuals, to public or private channels, and have conference calls.\nDiscord as a whole consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.\nIn each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation.\nHere is how Discord looks so you can get a sense:"
   },
   {
     "objectID": "onboarding/discord.html#why-discord",
     "href": "onboarding/discord.html#why-discord",
     "title": "Using Discord",
     "section": "Why Discord?",
-    "text": "Why Discord?\nWe primarily use Discord because it has…\n\n…great audio connectivity (almost like you’re on the phone!)\n…reduces Zoom fatigue (video off by default)\n…allows us to invite many people without limitations (costs are not per user, but for added features)\n…great moderation features"
+    "text": "Why Discord?\nWe primarily use Discord because it has…\n\n…great audio connectivity (almost like you’re on the phone!)\n…reduces fatigue (video off by default)\n…allows us to invite many people without worrying about costs\n…great moderation features"
   },
   {
     "objectID": "onboarding/discord.html#getting-started",
     "href": "onboarding/discord.html#getting-started",
     "title": "Using Discord",
     "section": "Getting started",
-    "text": "Getting started\n\nCreate a Discord account\nJoin the ResearchEquals server\nRead the house rules\nIntroduce yourself in #general\nGo into an audio channel and see how it works"
+    "text": "Getting started\nHere’s a checklist so that you can get started.\n\nCreate a Discord account\nJoin the ResearchEquals server\nRead the house rules\nIntroduce yourself in #general: What brought you here? What is something you want people to know about you?\nGo into the Lounge audio channel and try it out!"
   },
   {
     "objectID": "onboarding/discord.html#getting-help",
     "href": "onboarding/discord.html#getting-help",
     "title": "Using Discord",
     "section": "Getting help",
-    "text": "Getting help\nWe’re a pretty friendly bunch in there. If you need any assistance, ask in #help. No matter whether it’s debugging your audio or how to create your own Discord server - somebody will help you out!\nIn the case of somebody being a pain, tag @mods and we will check it out. We do not tolerate any direct or indirect hate speech (see also our Code of Conduct)."
+    "text": "Getting help\nWe’re a pretty friendly bunch in there. If you need any assistance, ask in #help. No matter whether it’s debugging your audio or how to create your own Discord server - somebody will help you out!\n\n\n\n\n\n\nNeed help? Get help!\n\n\n\n#help is intended for any kind of help, whether it’s Discord related or anything else that you feel you would like our support on!\n\n\nIn the case of somebody being a pain, tag @mods and we will check it out. We do not tolerate any direct or indirect hate speech (see also our Code of Conduct)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to the Liberate Science handbook 📚🤩",
+    "title": "Welcome 📚🤩",
     "section": "",
-    "text": "This is our collective handbook, where we collect the resources needed to create a shared understanding of how we work. Some of it is descriptive (how we actually work), some of it is prescriptive (how we should work).\nThis handbook applies to both employees, contractors, volunteers, and otherwise.\nHow we work is continuously evolving, so we encourage suggested edits! This also means reading up regularly to ensure you are aware of changes."
+    "text": "This is our collective handbook, with the resources needed to create a shared understanding of how we work.\nHow we work is continuously evolving, so we encourage suggested edits! This also means reading up regularly to ensure you are aware of changes.\nThis handbook applies to both employees, contractors, volunteers, and otherwise. Some of it is descriptive (how we actually work), some of it is prescriptive (how we should work)."
   },
   {
     "objectID": "index.html#where-to-start",
     "href": "index.html#where-to-start",
-    "title": "Welcome to the Liberate Science handbook 📚🤩",
+    "title": "Welcome 📚🤩",
     "section": "Where to start?",
     "text": "Where to start?\n\nCompletely new? Go through the onboarding pages.\nNeed a refresher? Each page starts with a summary!\nNeed to find something specific? Use the full-text search in the top-right corner!\nWant to explore? Look at the index to find all topics included."
   },
