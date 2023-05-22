@@ -1,0 +1,86 @@
+---
+title: "Using GitHub"
+---
+
+::: {.callout-tip}
+## Summary
+
+We share a lot of our work open source on GitHub: This handbook, our code, and much more. Open source also means anybody can propose changes - it is a critical tool for how we invite you to co-create.
+:::
+
+## Why GitHub?
+
+GitHub is a place for people to gather, create, and share their work publicly. 
+
+For us, sharing our work on GitHub is about ensuring that we are open about how we create things. [Working open](https://wiki.mozilla.org/Working_open) is not only about sharing the end results, but about actively inviting people into the process. GitHub is an essential tool to do this, and anything we write is open source.
+
+GitHub was originally intended for code, but don't let that scare you - we are here to help you along the way and get you the skills you need. We are using it for writing like this handbook too!
+
+## Getting started
+
+Here's what you will need to be able to do:
+
+* Understand general terminology
+* Start discussions
+* Participate and check-in on discussions
+* Participate in reviews
+* Suggest edits to existing documents
+
+We will walk you through everything, step by step. If you already know this, feel free to skip to the [Exercises](#exercises) 😊
+
+## Terminology 
+
+### Repositories
+
+On your computer, you may have folders for different projects. On GitHub, instead of folders, you have "repositories." Each repository contains that project's files. For example, [the repository for this handbook](https://github.com/libscie/handbook) contains this entire website.
+
+Each repository contains a history of all the changes. This is helpful because it allows us to always go back to older versions if things go horribly wrong. 
+
+You can watch, fork, and star a repository. Watching a repository is subscribing to its updates (you will receive notifications of ongoing discussions). Forking a repository means creating your own copy of it. Starring a repository saves it as a favorite (an important metric for popularity too).
+
+### Issues
+
+Issues are the primary place for open questions. Each repository has a so-called "issue tracker." This is a great place to make suggestions and participate in discussions on how to change things. 
+
+Anybody on GitHub can start an issue, so opening an issue does not mean it will be resolved. When opening an issue, it is important to communicate effectively and focus on making sure you provide all the relevant information to understand what needs to be resolved (communicate for the person reading it).
+
+### Pull Requests
+
+A repository goes through many changes - a pull request (PR) is a proposed change that is requested to be incorporated into the main version. It is good practice to only make changes using pull requests when a project hits the first complete version.
+
+We maintain a **"minimal pull request"** standard. This makes it easier to manage many changes over time, as the energy needed to understand one pull request remains minimal. For example, if you're substantially editing this page in the handbook, you might realize you also found a typo in another page. A minimal pull request would mean you separate the edits for this page and the typo on the other page into two pull requests. It may also mean you split the edits on this page into multiple pull requests if they are unrelated (e.g., correcting typo's and adding a whole new section).
+
+## Starting discussions
+
+<iframe width="100%" height="350px" src="https://www.youtube-nocookie.com/embed/ezafRd1lGQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Participate and check-in on discussions
+
+<iframe width="100%" height="350px" src="https://www.youtube-nocookie.com/embed/1-dfa08ELoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Participate in reviews
+
+<iframe width="100%" height="350px" src="https://www.youtube-nocookie.com/embed/s68uNOK1g9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Suggest edits to existing documents
+
+<iframe width="100%" height="350px" src="https://www.youtube-nocookie.com/embed/_lzuzAjy9p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+That is pretty much it. Creating new repositories are for specific roles only, so if your role requires it, you will receive additional training. Overall, there is a lot more to GitHub, and this is to get you started. Don't try to learn everything at once (it's a lot!). More often than not, you only need to know a few things - not all the technical details. 😊
+
+## Exercises
+
+- [ ] [Create a GitHub account](https://github.com/signup)
+- [ ] Take a look at the various repositories of [Liberate Science GmbH](https://github.com/libscie). Watch or favorite any of relevance to you 🌟
+- [ ] Propose an edit to this page, adding your name and GitHub username to the bottom of this page (include something about you that you'd like to share).
+- [ ] Invite the person above you in the list to review your edit
+
+## Getting help
+
+If you need assistance at any time, ask in the `#help` channel on Discord. You don't have to learn on your own, and when you ask questions you can learn from all the expertise available in the community 🤩
+
+## Saying hello 👋
+
+- Chris Hartgerink - @chartgerink - I enjoy writing on [my personal blog](https://chjh.nl)
