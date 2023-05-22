@@ -6,8 +6,6 @@ format: html
 
 This is our collective handbook, where we collect the resources needed to create a shared understanding of how we work. Some of it is descriptive (how we actually work), some of it is prescriptive (how we should work). 
 
-This handbook applies to both employees, contractors, volunteers, and otherwise.
-
 How we work is continuously evolving, so we encourage suggested edits! This also means reading up regularly to ensure you are aware of changes.
 
 [^1]: LibScie is the preferred acronym of Liberate Science.
