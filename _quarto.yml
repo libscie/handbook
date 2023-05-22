@@ -40,7 +40,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Onboarding"
+      - text: "Getting started"
         menu:
           - href: "onboarding/discord.qmd"
           - href: "onboarding/github.qmd"
@@ -64,11 +64,8 @@ website:
         href: https://github.com/libscie
         text: Liberate Science GmbH GitHub
       - icon: rss
-        href: https://quarto.org/docs/blog/index.xml
+        href: https://libscie.org/rss
         text: LibScie Blog RSS
-      - icon: mastodon
-        href: https://akademienl.social/@libscie
-        aria-label: LibScie Mastodon
 
 execute:
   freeze: auto
