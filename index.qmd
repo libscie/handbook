@@ -4,9 +4,14 @@ format: html
 # subtitle: "Open source tools for scientific and technical publishing"
 ---
 
+
 This is our collective handbook, with the resources needed to create a shared understanding of how we work. 
 
-Use the search button 🔍 in the top right corner to find what you need.
+::: {.callout-note}
+## Search
+
+Use the search button 🔍 in the top right corner to search through all the pages in this handbook.
+:::
 
 How we work is continuously evolving, so we encourage suggested edits! This also means reading up regularly to ensure you are aware of changes.
 

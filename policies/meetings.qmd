@@ -1,0 +1,20 @@
+---
+title: "Meeting policy"
+---
+
+::: {.callout-warning}
+## Summary
+
+We have a love-hate relationship with meetings. This policy helps us keep it on the love side and less on the hate side. In short: synchronous meetings need a purpose; be considerate of each other's time.
+:::
+
+
+## Summary
+
+1. Meetings are an activity - if you are not active, ask why you're there.
+2. 
+3. Meetings longer than 15 minutes need to have a purpose.
+4. Meetings longer than 30 minutes need an agenda.
+5. Meeting minutes are taken by everyone present.
+
+## W

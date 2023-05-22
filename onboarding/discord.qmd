@@ -16,6 +16,10 @@ Discord as a whole consists of many servers. Each server is a community of its o
 
 In each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation.
 
+Here is how Discord looks so you can get a sense:
+
+![](../assets/discord.png)
+
 ## Why Discord?
 
 We primarily use Discord because it has...
@@ -24,6 +28,7 @@ We primarily use Discord because it has...
 * ...reduces fatigue (video off by default)
 * ...allows us to invite many people without worrying about costs
 * ...great moderation features
+
 
 ## Getting started
 
@@ -37,6 +42,12 @@ Here's a checklist so that you can get started.
 
 ## Getting help
 
-We're a pretty friendly bunch in there. If you need any assistance, ask in `#help`. No matter whether it's debugging your audio or how to create your own Discord server - somebody will help you out!
+We're a pretty friendly bunch in there. If you need any assistance, ask in `#help`. No matter whether it's debugging your audio or how to create your own Discord server - somebody will help you out! 
+
+::: {.callout-note}
+## Need help? Get help!
+
+`#help` is intended for any kind of help, whether it's Discord related or anything else that you feel you would like our support on!
+:::
 
 In the case of somebody being a pain, tag `@mods` and we will check it out. We do not tolerate any direct or indirect hate speech (see also our [Code of Conduct](https://researchequals.com/coc)).

@@ -9,7 +9,7 @@ We consider any gathering of people, at our request, an event.
 
 ## Rules
 
-1. We will be running all our events virtually by default.
+1. We run all our events virtually by default.
 2. Local in-person events are permitted when a clear added value is documented.
 3. Everywhere we can go in 8 hours with public transport is considered local.
 4. In-person events only happen with the consent of attendees.
@@ -17,7 +17,7 @@ We consider any gathering of people, at our request, an event.
 6. The event policy applies to both internal and external events
 
 ::: {.callout-note}
-For more detailed explanations, see our latest blog on our [Event policy](https://libscie.org/introducing-our-event-policy/)
+For more detailed explanations, see our blog introducing our [Event policy](https://libscie.org/introducing-our-event-policy/)
 :::
 
 <!-- ## Exceptions
