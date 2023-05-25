@@ -1,0 +1,23 @@
+---
+title: "Equipment policy"
+---
+
+## Rules
+
+1. We use equipment for at least four years
+2. Equipment emissions are part of the purchase decision. 
+3. We repair instead of replace. 
+4. We actively minimize our inventory. 
+5. We aim to provide real-time inventory tracking. 
+
+::: {.callout-note}
+For more detailed explanations, see our blog introducing our [Equipment policy](https://libscie.org/p/f0de08aa-76b1-42f2-983d-3593ca6273c1/)
+:::
+
+<!-- ## Exceptions
+
+## Scenario's
+
+### Scenario 1
+
+We are invited to do a workshop, for which we are paid. This workshop is taking place  -->
