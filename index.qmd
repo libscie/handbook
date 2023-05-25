@@ -24,3 +24,12 @@ This handbook applies to both employees, contractors, volunteers, and otherwise.
 * Need a refresher? Each page starts with a summary!
 * Need to find something specific? Use the full-text search in the top-right corner!
 * Want to explore? Look at the index to find all topics included.
+
+```{mermaid}
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```

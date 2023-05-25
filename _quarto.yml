@@ -51,6 +51,8 @@ website:
             href: "https://researchequals.com/coc"
           - text: "Events"
             href: "policies/events.qmd"
+          - href: "policies/equipment.qmd"
+
       - text: "Help"
         menu:
           - text: "Report a Bug"
