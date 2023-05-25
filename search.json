@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "policies/equipment.html",
+    "href": "policies/equipment.html",
+    "title": "Equipment policy",
+    "section": "",
+    "text": "We use equipment for at least four years\nEquipment emissions are part of the purchase decision.\nWe repair instead of replace.\nWe actively minimize our inventory.\nWe aim to provide real-time inventory tracking.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Equipment policy"
+  },
+  {
+    "objectID": "policies/equipment.html#rules",
+    "href": "policies/equipment.html#rules",
+    "title": "Equipment policy",
+    "section": "",
+    "text": "We use equipment for at least four years\nEquipment emissions are part of the purchase decision.\nWe repair instead of replace.\nWe actively minimize our inventory.\nWe aim to provide real-time inventory tracking.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Equipment policy"
+  },
+  {
     "objectID": "policies/meetings.html",
     "href": "policies/meetings.html",
     "title": "Meeting policy",
@@ -172,7 +186,7 @@
     "href": "index.html#where-to-start",
     "title": "Welcome 📚🤩",
     "section": "Where to start?",
-    "text": "Where to start?\n\nCompletely new? Go through the onboarding pages.\nNeed a refresher? Each page starts with a summary!\nNeed to find something specific? Use the full-text search in the top-right corner!\nWant to explore? Look at the index to find all topics included."
+    "text": "Where to start?\n\nCompletely new? Go through the onboarding pages.\nNeed a refresher? Each page starts with a summary!\nNeed to find something specific? Use the full-text search in the top-right corner!\nWant to explore? Look at the index to find all topics included.\n\n\n\n\n\nflowchart TD\n    A[Christmas] --&gt;|Get money| B(Go shopping)\n    B --&gt; C{Let me think}\n    C --&gt;|One| D[Laptop]\n    C --&gt;|Two| E[iPhone]\n    C --&gt;|Three| F[fa:fa-car Car]"
   },
   {
     "objectID": "summary.html",
