@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://libscie.org/policies/wages.html</loc>
+    <lastmod>2023-05-31T07:15:43.235Z</lastmod>
+  </url>
+  <url>
     <loc>https://libscie.org/policies/equipment.html</loc>
-    <lastmod>2023-05-25T16:14:59.887Z</lastmod>
+    <lastmod>2023-05-31T07:15:44.135Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/meetings.html</loc>
-    <lastmod>2023-05-25T16:15:00.559Z</lastmod>
+    <lastmod>2023-05-31T07:15:44.599Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/events.html</loc>
-    <lastmod>2023-05-25T16:15:00.911Z</lastmod>
+    <lastmod>2023-05-31T07:15:45.031Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/references.html</loc>
-    <lastmod>2023-05-25T16:15:01.219Z</lastmod>
+    <lastmod>2023-05-31T07:15:45.431Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/intro.html</loc>
-    <lastmod>2023-05-25T16:15:01.531Z</lastmod>
+    <lastmod>2023-05-31T07:15:45.815Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/onboarding/researchequals.html</loc>
-    <lastmod>2023-05-25T16:15:01.819Z</lastmod>
+    <lastmod>2023-05-31T07:15:46.175Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/onboarding/github.html</loc>
-    <lastmod>2023-05-25T16:15:02.295Z</lastmod>
+    <lastmod>2023-05-31T07:15:46.807Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/onboarding/discord.html</loc>
-    <lastmod>2023-05-25T16:15:02.703Z</lastmod>
+    <lastmod>2023-05-31T07:15:47.355Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/index.html</loc>
-    <lastmod>2023-05-25T16:15:03.059Z</lastmod>
+    <lastmod>2023-05-31T07:15:47.899Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/summary.html</loc>
-    <lastmod>2023-05-25T16:15:03.363Z</lastmod>
+    <lastmod>2023-05-31T07:15:48.299Z</lastmod>
   </url>
 </urlset>
