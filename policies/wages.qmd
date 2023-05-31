@@ -1,0 +1,74 @@
+
+# Wage transparency
+
+Once a year, we set our wage sheet collectively. Everybody who is on Liberate Science's payroll gets to participate in discussions leading up to the changes.
+
+Wage scales are separated for employees and formal directors. Formal directors are registered in the Chamber of Commerce, carry additional obligations and responsibilities, and have different contracts. Directors receive 12 months' pay, whereas employees receive 12 months' pay plus an additional 2 (holiday money, prorated according to tenure and paid out in May + December).
+
+<aside>
+    Holiday pay is prorated on the basis of employment during the cycles May-May and December-December. For example, if you started on September 1st, you get 4/12th holiday pay in December and 9/12th in May.
+</aside>
+
+Each person in the organization is scaled according to their tenure in years with Liberate Science. During your first year after your start date, you are in scale 1. If you have been with the organization for 5 years, you are in scale 5. Overall, you get a lifetime pay rise of 62% notwithstanding inflation correction or future changes.
+
+# 2023
+
+An increase of ~4.5% across the board compared to the year before.
+
+|          | Employee |             |                        | Director |                |                 |           |
+| -------- | -------- | ----------- | ---------------------- | -------- | -------------- | --------------- | --------- |
+| Year     | Index    | Monthly     | Yearly                 | Index    | Monthly        | Yearly          | Ratio D/E |
+| 1        | 100.00%  | €  3,296.39 | €            46,149.45 | 100.00%  | €     5,360.00 | €     64,320.00 | 1.39      |
+| 2        | 100.00%  | €  3,296.39 | €            46,149.45 | 100.00%  | €     5,360.00 | €     64,320.00 | 1.39      |
+| 3        | 106.25%  | €  3,502.41 | €            49,033.79 | 106.25%  | €     5,695.00 | €     68,340.00 | 1.39      |
+| 4        | 106.25%  | €  3,721.31 | €            52,098.40 | 106.25%  | €     6,050.94 | €     72,611.25 | 1.39      |
+| 5        | 106.25%  | €  3,953.90 | €            55,354.55 | 106.25%  | €     6,429.12 | €     77,149.45 | 1.39      |
+| 6        | 106.25%  | €  4,201.02 | €            58,814.21 | 106.25%  | €     6,830.94 | €     81,971.29 | 1.39      |
+| 7        | 106.25%  | €  4,463.58 | €            62,490.10 | 106.25%  | €     7,257.87 | €     87,094.50 | 1.39      |
+| 8        | 106.25%  | €  4,742.55 | €            66,395.73 | 106.25%  | €     7,711.49 | €     92,537.91 | 1.39      |
+| 9        | 106.25%  | €  5,038.96 | €            70,545.46 | 106.25%  | €     8,193.46 | €     98,321.53 | 1.39      |
+| 10       | 106.25%  | €  5,353.90 | €            74,954.56 | 106.25%  | €     8,705.55 | €   104,466.62  | 1.39      |
+| Lifetime | 162.00%  |             |                        | 162.00%  |                |                 | 2.26      |
+
+
+<details>
+    <summary>2022</summary>
+
+    An increase of ~2.5% across the board.
+
+|          | Employee |            |             | Director |            |             |           |
+| -------- | -------- | ---------- | ----------- | -------- | ---------- | ----------- | --------- |
+| Year     | Index    | Monthly    | Yearly      | Index    | Monthly    | Yearly      | Ratio D/E |
+| 1        | 100.00%  | € 3,152.21 | € 44,130.89 | 100.00%  | € 5,125.56 | € 61,506.67 | 1.39      |
+| 2        | 100.00%  | € 3,152.21 | € 44,130.89 | 100.00%  | € 5,125.56 | € 61,506.67 | 1.39      |
+| 3        | 106.25%  | € 3,349.22 | € 46,889.07 | 106.25%  | € 5,445.90 | € 65,350.83 | 1.39      |
+| 4        | 106.25%  | € 3,558.55 | € 49,819.64 | 106.25%  | € 5,786.27 | € 69,435.26 | 1.39      |
+| 5        | 106.25%  | € 3,780.95 | € 52,933.36 | 106.25%  | € 6,147.91 | € 73,774.96 | 1.39      |
+| 6        | 106.25%  | € 4,017.26 | € 56,241.70 | 106.25%  | € 6,532.16 | € 78,385.90 | 1.39      |
+| 7        | 106.25%  | € 4,268.34 | € 59,756.81 | 106.25%  | € 6,940.42 | € 83,285.02 | 1.39      |
+| 8        | 106.25%  | € 4,535.11 | € 63,491.61 | 106.25%  | € 7,374.19 | € 88,490.33 | 1.39      |
+| 9        | 106.25%  | € 4,818.56 | € 67,459.83 | 106.25%  | € 7,835.08 | € 94,020.98 | 1.39      |
+| 10       | 106.25%  | € 5,119.72 | € 71,676.07 | 106.25%  | € 8,324.77 | € 99,897.29 | 1.39      |
+| Lifetime | 162.00%  |            |             | 162.00%  |            |             | 2.26      |
+</details>
+
+<details>
+    <summary>2021</summary>
+
+    This was the first documented wage sheet in this style.
+
+|          | Employee |            |             | Director |            |             |           |
+| -------- | -------- | ---------- | ----------- | -------- | ---------- | ----------- | --------- |
+| Year     | Index    | Monthly    | Yearly      | Index    | Monthly    | Yearly      | Ratio D/E |
+| 1        | 100%     | € 3.074,99 | € 43.049,86 | 100%     | € 5.000,00 | € 60.000,00 | 1,39      |
+| 2        | 100%     | € 3.074,99 | € 43.049,86 | 100%     | € 5.000,00 | € 60.000,00 | 1,39      |
+| 3        | 106%     | € 3.267,18 | € 45.740,48 | 106%     | € 5.312,50 | € 63.750,00 | 1,39      |
+| 4        | 106%     | € 3.471,38 | € 48.599,26 | 106%     | € 5.644,53 | € 67.734,38 | 1,39      |
+| 5        | 106%     | € 3.688,34 | € 51.636,71 | 106%     | € 5.997,31 | € 71.967,77 | 1,39      |
+| 6        | 106%     | € 3.918,86 | € 54.864,00 | 106%     | € 6.372,15 | € 76.465,76 | 1,39      |
+| 7        | 106%     | € 4.163,79 | € 58.293,00 | 106%     | € 6.770,41 | € 81.244,87 | 1,39      |
+| 8        | 106%     | € 4.424,02 | € 61.936,32 | 106%     | € 7.193,56 | € 86.322,67 | 1,39      |
+| 9        | 106%     | € 4.700,52 | € 65.807,34 | 106%     | € 7.643,15 | € 91.717,84 | 1,39      |
+| 10       | 106%     | € 4.994,31 | € 69.920,30 | 106%     | € 8.120,85 | € 97.450,21 | 1,39      |
+| Lifetime | 162%     |            |             | 162%     |            |             | 2,26      |
+</details>
