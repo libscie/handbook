@@ -1,0 +1,87 @@
+# Code of Conduct
+
+::: {.callout-important}
+The general code of conduct is [included in ResearchEquals](https://researchequals.com/coc). It applies to all we do at Liberate Science GmbH - we keep it in one place to prevent duplication elsewhere.
+:::
+
+The Code of Conduct for Liberate Science GmbH and ResearchEquals helps us mitigate harm **and** promote joy. We want to create spaces where we collectively thrive, not just survive. This is why the best summary for all of this is: Help yourself and others thrive. This keeps our community safe and secure. 
+
+## Current action items
+
+- [ ] Add recusal policy to code of conduct
+- [ ] Link CoC with theory of change
+- [ ] Seek engagement with other CoCs
+
+## Committee structure
+
+The committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member's tenure is for a maximum of two years.
+
+::: {.callout-tip}
+# Interested in joining?
+
+We would love to hear from you if you're interested to join our committee! Reach out to [coc@libscie.org](mailto:coc@libscie.org) and let us know.
+:::
+
+We do not take committee member's volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a [code of conduct training](https://otter.technology/shop/) upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure.
+<!-- 
+## Promoting joy
+
+### Activities
+
+
+
+## Mitigate harm -->
+
+### Transparency reports
+
+In order to enable the community to understand what's happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.
+
+We retroactively created older transparency reports starting May 2023, and will add new events as we go.
+
+<details>
+    <summary>2023</summary>
+
+- January - March [no incidents reported]
+- April - June
+- July - September
+- October - December
+</details>
+<details>
+    <summary>2022</summary>
+
+- January - March [no incidents reported]
+- April - June [no incidents reported]
+- July - September [no incidents reported]
+- October - December 
+    - One email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.
+</details>
+<details>
+    <summary>2021</summary>
+
+- January - March [no incidents reported]
+- April - June
+    - Incident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.
+- July - September [no incidents reported]
+- October - December [no incidents reported]
+</details>
+<details>
+    <summary>2020</summary>
+
+- January - March [no incidents reported]
+- April - June [no incidents reported]
+- July - September [no incidents reported]
+- October - December [no incidents reported]
+</details>
+<details>
+    <summary>2019</summary>
+
+- October - December [no incidents reported]
+</details>
+
+## Resources
+
+Some helpful resources for you:
+
+- [Conflicts of Interest](https://github.com/sagesharp/code-of-conduct-template/blob/master/procedures/conflicts-of-interest.md)
+- [Code of Conduct workshop materials (Otter Technology)](https://gitlab.com/otter-tech/coc-incident-response-workshop)
+

@@ -45,13 +45,15 @@ website:
           - href: "onboarding/discord.qmd"
           - href: "onboarding/github.qmd"
           - href: "onboarding/researchequals.qmd"
+      - text: "Culture"
+        menu: 
+          - href: "culture/workweek.qmd"
       - text: "Policies"
         menu:
-          - text: "Code of Conduct"
-            href: "https://researchequals.com/coc"
-          - text: "Events"
-            href: "policies/events.qmd"
+          - href: "policies/coc.qmd"
+          - href: "policies/events.qmd"
           - href: "policies/equipment.qmd"
+          - href: "policies/wages.qmd"
 
       - text: "Help"
         menu:
