@@ -44,7 +44,7 @@ website:
         menu:
           - href: "onboarding/discord.qmd"
           - href: "onboarding/github.qmd"
-          - href: "onboarding/researchequals.qmd"
+          # - href: "onboarding/researchequals.qmd"
       - text: "Culture"
         menu: 
           - href: "culture/document.qmd"
