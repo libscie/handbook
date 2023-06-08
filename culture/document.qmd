@@ -1,0 +1,29 @@
+# Building in public
+
+:::{.callout-tip}
+We're working together to get things done - this means sharing what you're doing. By building in public, you are continuously documenting and communicating about your work.
+:::
+
+We maintain a “build in public” mindset throughout Liberate Science’s operations. In order to provide a culture of sharing within the organization, it is vital to share what you are working on. This helps us understand each other’s workloads, what’s going on in the company, and shares your journey with your team. Only by sharing can we have a sense of understanding and help one another. It also helps us hone our communication skills.
+
+<aside>Summarized: 
+
+1. What you work on is worth sharing
+2. Make what you share is informative
+3. Invite people in
+</aside>
+
+What does “build in public” mean?
+
+The work you do is worth sharing. Not just the outputs, but the entire process. That also includes things that you are thinking about, struggling with, or have achieved. It means you do not have to go through this on your own. Gathering diverse perspectives on your issues also helps create new ideas.
+
+## How?
+
+We build in public through blog posts. 
+
+Anybody who's following the Liberate Science blog to stay informed of what we are doing. 
+<!-- See the getting started page on blogging to ensure you're set up to write your posts. -->
+
+You can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.
+
+Writing about our work continuously trains our communication skills, aligns us internally, and keeps us accountable.  

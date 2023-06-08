@@ -47,8 +47,9 @@ website:
           - href: "onboarding/researchequals.qmd"
       - text: "Culture"
         menu: 
-          - href: "culture/workweek.qmd"
+          - href: "culture/document.qmd"
           - href: "culture/jobs.qmd"
+          - href: "culture/workweek.qmd"
       - text: "Policies"
         menu:
           - href: "policies/coc.qmd"
