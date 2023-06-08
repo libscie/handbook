@@ -48,6 +48,7 @@ website:
       - text: "Culture"
         menu: 
           - href: "culture/workweek.qmd"
+          - href: "culture/jobs.qmd"
       - text: "Policies"
         menu:
           - href: "policies/coc.qmd"
@@ -60,9 +61,6 @@ website:
           - text: "Report a Bug"
             icon: "bug"
             href: "https://github.com/libscie/policy/issues"
-          - text: "Ask a Question"
-            icon: "chat-right-text"
-            href: "https://github.com/libscie/policy/discussions"
     tools:
       - icon: github
         href: https://github.com/libscie

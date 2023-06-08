@@ -1,0 +1,47 @@
+---
+title: "Positions"
+---
+
+::: {.callout-tip}
+## Summary
+
+This page contains any and all positions that we're looking to fill at a given time. 
+:::
+
+## Paid positions
+
+None at this time. 
+
+## Volunteer positions
+
+<details>
+    <summary>Committee member for Code of Conduct</summary>
+
+Joining the Code of Conduct committee means you get to shape how our community mitigates harm **and** promotes joy. The committee helps create spaces where we collectively thrive, not just survive.
+
+Does this sound like something you'd be interested in? Read on for more details.
+
+### Requirements
+
+- You have demonstable experience in open research.
+- You are cognisant of power dynamics/intersectionality (e.g., implicit biases).
+- You are reliable, self-reflective, empathetic, and comfortable with complexity.
+- You are aware of intercultural sensitivities.
+- You appreciate and have a sense of community.
+- You sign on to our general mission and current code of conduct.
+
+### Commitments
+
+- 60 minute meeting every quarter, plus 2 hours availability per incident report (2021: 1 report, 2022: no reports)
+- 5 hours for CoC training workshop
+- Additional commitments at own discretion
+- Commit for at least one year, at most two years
+
+### Incentives
+
+- $350 Code of Conduct training provided
+- Agency in deciding what committee budget gets spent on
+- Agency in revising CoC
+- Opportunity to cultivate safer communities and transformative justice
+- Complimentary ResearchEquals supporting membership for double the duration of committee membership
+</details>

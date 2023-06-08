@@ -19,7 +19,7 @@ The committee ideally consists of four members at any given time. We understand 
 ::: {.callout-tip}
 # Interested in joining?
 
-We would love to hear from you if you're interested to join our committee! Reach out to [coc@libscie.org](mailto:coc@libscie.org) and let us know.
+We are currently looking for new committee members! Please view our [Jobs](../culture/jobs.qmd) page for more information.
 :::
 
 We do not take committee member's volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a [code of conduct training](https://otter.technology/shop/) upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure.
