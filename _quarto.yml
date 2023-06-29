@@ -35,11 +35,22 @@ website:
     background: light
     logo: logo.png
     logo-alt: "LibScie logo"
-    title: false
+    title: "LibScie Handbook"
     collapse-below: lg
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Quick links"
+        menu:
+          - href: "https://libscie.org"
+            text: "Blog"
+          - href: "https://libscie.org/ghost"
+            text: "Blog editor"
+          - href: "https://mngr.libscie.org"
+            text: "LibScie Manager"
+          - href: "https://researchequals.com"
+            text: "ResearchEquals"
+
       - text: "Getting started"
         menu:
           - href: "onboarding/discord.qmd"
