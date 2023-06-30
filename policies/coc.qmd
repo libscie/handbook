@@ -9,6 +9,7 @@ The Code of Conduct for Liberate Science GmbH and ResearchEquals helps us mitiga
 ## Current action items
 
 - [ ] Add recusal policy to code of conduct
+- [ ] Improve processes for collaborators/partners to formally agree to adhering to the CoC
 - [ ] Link CoC with theory of change
 - [ ] Seek engagement with other CoCs
 
@@ -43,6 +44,7 @@ We retroactively created older transparency reports starting May 2023, and will 
 
 - January - March [no incidents reported]
 - April - June
+    - One incident reported by committee member. Committee member recused from the process, external advisor hired. Resolved internally with new action items to improve the processes.
 - July - September
 - October - December
 </details>
