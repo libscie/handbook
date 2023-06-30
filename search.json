@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Summary\nIn summary, this book has no content whatsoever."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome 📚🤩",
-    "section": "",
-    "text": "This is our collective handbook, with the resources needed to create a shared understanding of how we work at Liberate Science.\n\n\n\n\n\n\nSearch\n\n\n\nUse the search button 🔍 in the top right corner to search through all the pages in this handbook.\n\n\nHow we work is continuously evolving, so we encourage suggested edits! This also means checking in here to ensure you are aware of the latest changes.\nThis handbook applies to both employees, contractors, volunteers, and otherwise. Some of it is descriptive (how we actually work) and some of it is prescriptive (how we should work)."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "References"
-  },
-  {
-    "objectID": "onboarding/discord.html",
-    "href": "onboarding/discord.html",
-    "title": "Using Discord",
-    "section": "",
-    "text": "Summary\n\n\n\nDiscord is where we gather our ResearchEquals community of practice. You can join the Discord server and take part in the (voice) chat, activities, and sharing that takes place there."
-  },
-  {
-    "objectID": "onboarding/discord.html#what-is-discord",
-    "href": "onboarding/discord.html#what-is-discord",
-    "title": "Using Discord",
-    "section": "What is Discord?",
-    "text": "What is Discord?\nDiscord is an asynchronous communication tool. It is very similar to Slack, if you are familiar. You can send messages to individuals, to public or private channels, and have conference calls.\nDiscord as a whole consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.\nIn each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation.\nHere is how Discord looks so you can get a sense:"
-  },
-  {
-    "objectID": "onboarding/discord.html#why-discord",
-    "href": "onboarding/discord.html#why-discord",
-    "title": "Using Discord",
-    "section": "Why Discord?",
-    "text": "Why Discord?\nWe primarily use Discord because it has…\n\n…great audio connectivity (almost like you’re on the phone!)\n…reduces fatigue (video off by default)\n…allows us to invite many people without worrying about costs\n…great moderation features"
-  },
-  {
-    "objectID": "onboarding/discord.html#getting-started",
-    "href": "onboarding/discord.html#getting-started",
-    "title": "Using Discord",
-    "section": "Getting started",
-    "text": "Getting started\nHere’s a checklist so that you can get started.\n\nCreate a Discord account\nJoin the ResearchEquals server\nRead the house rules\nIntroduce yourself in #general: What brought you here? What is something you want people to know about you?\nGo into the Lounge audio channel and try it out!"
-  },
-  {
-    "objectID": "onboarding/discord.html#getting-help",
-    "href": "onboarding/discord.html#getting-help",
-    "title": "Using Discord",
-    "section": "Getting help",
-    "text": "Getting help\nWe’re a pretty friendly bunch in there. If you need any assistance, ask in #help. No matter whether it’s debugging your audio or how to create your own Discord server - somebody will help you out!\n\n\n\n\n\n\nNeed help? Get help!\n\n\n\n#help is intended for any kind of help, whether it’s Discord related or anything else that you feel you would like our support on!\n\n\nIn the case of somebody being a pain, tag @mods and we will check it out. We do not tolerate any direct or indirect hate speech (see also our Code of Conduct)."
-  },
-  {
     "objectID": "onboarding/github.html",
     "href": "onboarding/github.html",
     "title": "Using GitHub",
@@ -154,6 +98,76 @@
     "text": "We use equipment for at least four years\nEquipment emissions are part of the purchase decision.\nWe repair instead of replace.\nWe actively minimize our inventory.\nWe aim to provide real-time inventory tracking.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Equipment policy"
   },
   {
+    "objectID": "policies/events.html",
+    "href": "policies/events.html",
+    "title": "Event policy",
+    "section": "",
+    "text": "We consider any gathering of people, at our request, an event. This also includes travel at our request."
+  },
+  {
+    "objectID": "policies/events.html#rules",
+    "href": "policies/events.html#rules",
+    "title": "Event policy",
+    "section": "Rules",
+    "text": "Rules\n\nWe run all our events virtually by default.\nLocal in-person events are permitted when a clear added value is documented.\nEverywhere we can go in 8 hours with public transport is considered local.\nIn-person events only happen with the consent of attendees.\nHybrid events are organized as virtual first.\nThe event policy applies to both internal and external events.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Event policy"
+  },
+  {
+    "objectID": "culture/jobs.html",
+    "href": "culture/jobs.html",
+    "title": "Positions",
+    "section": "",
+    "text": "Summary\n\n\n\nThis page contains any and all positions that we’re looking to fill at a given time."
+  },
+  {
+    "objectID": "culture/jobs.html#paid-positions",
+    "href": "culture/jobs.html#paid-positions",
+    "title": "Positions",
+    "section": "Paid positions",
+    "text": "Paid positions\nNone at this time."
+  },
+  {
+    "objectID": "culture/jobs.html#volunteer-positions",
+    "href": "culture/jobs.html#volunteer-positions",
+    "title": "Positions",
+    "section": "Volunteer positions",
+    "text": "Volunteer positions\n\n\nCommittee member for Code of Conduct\n\nJoining the Code of Conduct committee means you get to shape how our community mitigates harm and promotes joy. The committee helps create spaces where we collectively thrive, not just survive.\nDoes this sound like something you’d be interested in? Read on for more details.\n\nRequirements\n\nYou have demonstable experience in open research.\nYou are cognisant of power dynamics/intersectionality (e.g., implicit biases).\nYou are reliable, self-reflective, empathetic, and comfortable with complexity.\nYou are aware of intercultural sensitivities.\nYou appreciate and have a sense of community.\nYou sign on to our general mission and current code of conduct.\n\n\n\nCommitments\n\n60 minute meeting every quarter, plus 2 hours availability per incident report (2021: 1 report, 2022: no reports)\n5 hours for CoC training workshop\nAdditional commitments at own discretion\nCommit for at least one year, at most two years\n\n\n\nIncentives\n\n$350 Code of Conduct training provided\nAgency in deciding what committee budget gets spent on\nAgency in revising CoC\nOpportunity to cultivate safer communities and transformative justice\nComplimentary ResearchEquals supporting membership for double the duration of committee membership"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome 📚🤩",
+    "section": "",
+    "text": "This is our collective handbook, with the resources needed to create a shared understanding of how we work at Liberate Science.\n\n\n\n\n\n\nSearch\n\n\n\nUse the search button 🔍 in the top right corner to search through all the pages in this handbook.\n\n\nHow we work is continuously evolving, so we encourage suggested edits! This also means checking in here to ensure you are aware of the latest changes.\nThis handbook applies to both employees, contractors, volunteers, and otherwise. Some of it is descriptive (how we actually work) and some of it is prescriptive (how we should work)."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nReferences\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References"
+  },
+  {
+    "objectID": "culture/document.html",
+    "href": "culture/document.html",
+    "title": "Building in public",
+    "section": "",
+    "text": "Tip\n\n\n\nWe’re working together to get things done - this means sharing what you’re doing. By building in public, you are continuously documenting and communicating about your work.\n\n\nWe maintain a “build in public” mindset throughout Liberate Science’s operations. In order to provide a culture of sharing within the organization, it is vital to share what you are working on. This helps us understand each other’s workloads, what’s going on in the company, and shares your journey with your team. Only by sharing can we have a sense of understanding and help one another. It also helps us hone our communication skills.\n\nSummarized:\n\nWhat you work on is worth sharing\nMake what you share is informative\nInvite people in\n\n\nWhat does “build in public” mean?\nThe work you do is worth sharing. Not just the outputs, but the entire process. That also includes things that you are thinking about, struggling with, or have achieved. It means you do not have to go through this on your own. Gathering diverse perspectives on your issues also helps create new ideas.\n\n\nWe build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
+  },
+  {
+    "objectID": "culture/document.html#how",
+    "href": "culture/document.html#how",
+    "title": "Building in public",
+    "section": "",
+    "text": "We build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
+  },
+  {
     "objectID": "policies/meetings.html",
     "href": "policies/meetings.html",
     "title": "Meeting policy",
@@ -179,21 +193,21 @@
     "href": "policies/coc.html",
     "title": "Code of Conduct",
     "section": "",
-    "text": "Important\n\n\n\nThe general code of conduct is included in ResearchEquals. It applies to all we do at Liberate Science GmbH - we keep it in one place to prevent duplication elsewhere.\n\n\nThe Code of Conduct for Liberate Science GmbH and ResearchEquals helps us mitigate harm and promote joy. We want to create spaces where we collectively thrive, not just survive. This is why the best summary for all of this is: Help yourself and others thrive. This keeps our community safe and secure.\n\n\n\nAdd recusal policy to code of conduct\nLink CoC with theory of change\nSeek engagement with other CoCs\n\n\n\n\nThe committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]\n\n\n\n\n\n\nSome helpful resources for you:\n\nConflicts of Interest\nCode of Conduct workshop materials (Otter Technology)"
+    "text": "Important\n\n\n\nThe general code of conduct is included in ResearchEquals. It applies to all we do at Liberate Science GmbH - we keep it in one place to prevent duplication elsewhere.\n\n\nThe Code of Conduct for Liberate Science GmbH and ResearchEquals helps us mitigate harm and promote joy. We want to create spaces where we collectively thrive, not just survive. This is why the best summary for all of this is: Help yourself and others thrive. This keeps our community safe and secure.\n\n\n\nAdd recusal policy to code of conduct\nImprove processes for collaborators/partners to formally agree to adhering to the CoC\nLink CoC with theory of change\nSeek engagement with other CoCs\n\n\n\n\nThe committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nOne incident reported by committee member. Committee member recused from the process, external advisor hired. Resolved internally with new action items to improve the processes.\n\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]\n\n\n\n\n\n\nSome helpful resources for you:\n\nConflicts of Interest\nCode of Conduct workshop materials (Otter Technology)"
   },
   {
     "objectID": "policies/coc.html#current-action-items",
     "href": "policies/coc.html#current-action-items",
     "title": "Code of Conduct",
     "section": "",
-    "text": "Add recusal policy to code of conduct\nLink CoC with theory of change\nSeek engagement with other CoCs"
+    "text": "Add recusal policy to code of conduct\nImprove processes for collaborators/partners to formally agree to adhering to the CoC\nLink CoC with theory of change\nSeek engagement with other CoCs"
   },
   {
     "objectID": "policies/coc.html#committee-structure",
     "href": "policies/coc.html#committee-structure",
     "title": "Code of Conduct",
     "section": "",
-    "text": "The committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]"
+    "text": "The committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nOne incident reported by committee member. Committee member recused from the process, external advisor hired. Resolved internally with new action items to improve the processes.\n\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]"
   },
   {
     "objectID": "policies/coc.html#resources",
@@ -203,59 +217,45 @@
     "text": "Some helpful resources for you:\n\nConflicts of Interest\nCode of Conduct workshop materials (Otter Technology)"
   },
   {
-    "objectID": "policies/events.html",
-    "href": "policies/events.html",
-    "title": "Event policy",
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
     "section": "",
-    "text": "We consider any gathering of people, at our request, an event. This also includes travel at our request."
+    "text": "Summary\nIn summary, this book has no content whatsoever."
   },
   {
-    "objectID": "policies/events.html#rules",
-    "href": "policies/events.html#rules",
-    "title": "Event policy",
-    "section": "Rules",
-    "text": "Rules\n\nWe run all our events virtually by default.\nLocal in-person events are permitted when a clear added value is documented.\nEverywhere we can go in 8 hours with public transport is considered local.\nIn-person events only happen with the consent of attendees.\nHybrid events are organized as virtual first.\nThe event policy applies to both internal and external events.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Event policy"
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "Introduction",
+    "objectID": "onboarding/discord.html",
+    "href": "onboarding/discord.html",
+    "title": "Using Discord",
     "section": "",
-    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nReferences\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Summary\n\n\n\nDiscord is where we gather our ResearchEquals community of practice. You can join the Discord server and take part in the (voice) chat, activities, and sharing that takes place there."
   },
   {
-    "objectID": "culture/jobs.html",
-    "href": "culture/jobs.html",
-    "title": "Positions",
-    "section": "",
-    "text": "Summary\n\n\n\nThis page contains any and all positions that we’re looking to fill at a given time."
+    "objectID": "onboarding/discord.html#what-is-discord",
+    "href": "onboarding/discord.html#what-is-discord",
+    "title": "Using Discord",
+    "section": "What is Discord?",
+    "text": "What is Discord?\nDiscord is an asynchronous communication tool. It is very similar to Slack, if you are familiar. You can send messages to individuals, to public or private channels, and have conference calls.\nDiscord as a whole consists of many servers. Each server is a community of its own. The ResearchEquals server is separate from other servers.\nIn each server, there are channels. Most of these are text channels, where you can chat with others. There are also audio channels, where you can have conversation.\nHere is how Discord looks so you can get a sense:"
   },
   {
-    "objectID": "culture/jobs.html#paid-positions",
-    "href": "culture/jobs.html#paid-positions",
-    "title": "Positions",
-    "section": "Paid positions",
-    "text": "Paid positions\nNone at this time."
+    "objectID": "onboarding/discord.html#why-discord",
+    "href": "onboarding/discord.html#why-discord",
+    "title": "Using Discord",
+    "section": "Why Discord?",
+    "text": "Why Discord?\nWe primarily use Discord because it has…\n\n…great audio connectivity (almost like you’re on the phone!)\n…reduces fatigue (video off by default)\n…allows us to invite many people without worrying about costs\n…great moderation features"
   },
   {
-    "objectID": "culture/jobs.html#volunteer-positions",
-    "href": "culture/jobs.html#volunteer-positions",
-    "title": "Positions",
-    "section": "Volunteer positions",
-    "text": "Volunteer positions\n\n\nCommittee member for Code of Conduct\n\nJoining the Code of Conduct committee means you get to shape how our community mitigates harm and promotes joy. The committee helps create spaces where we collectively thrive, not just survive.\nDoes this sound like something you’d be interested in? Read on for more details.\n\nRequirements\n\nYou have demonstable experience in open research.\nYou are cognisant of power dynamics/intersectionality (e.g., implicit biases).\nYou are reliable, self-reflective, empathetic, and comfortable with complexity.\nYou are aware of intercultural sensitivities.\nYou appreciate and have a sense of community.\nYou sign on to our general mission and current code of conduct.\n\n\n\nCommitments\n\n60 minute meeting every quarter, plus 2 hours availability per incident report (2021: 1 report, 2022: no reports)\n5 hours for CoC training workshop\nAdditional commitments at own discretion\nCommit for at least one year, at most two years\n\n\n\nIncentives\n\n$350 Code of Conduct training provided\nAgency in deciding what committee budget gets spent on\nAgency in revising CoC\nOpportunity to cultivate safer communities and transformative justice\nComplimentary ResearchEquals supporting membership for double the duration of committee membership"
+    "objectID": "onboarding/discord.html#getting-started",
+    "href": "onboarding/discord.html#getting-started",
+    "title": "Using Discord",
+    "section": "Getting started",
+    "text": "Getting started\nHere’s a checklist so that you can get started.\n\nCreate a Discord account\nJoin the ResearchEquals server\nRead the house rules\nIntroduce yourself in #general: What brought you here? What is something you want people to know about you?\nGo into the Lounge audio channel and try it out!"
   },
   {
-    "objectID": "culture/document.html",
-    "href": "culture/document.html",
-    "title": "Building in public",
-    "section": "",
-    "text": "Tip\n\n\n\nWe’re working together to get things done - this means sharing what you’re doing. By building in public, you are continuously documenting and communicating about your work.\n\n\nWe maintain a “build in public” mindset throughout Liberate Science’s operations. In order to provide a culture of sharing within the organization, it is vital to share what you are working on. This helps us understand each other’s workloads, what’s going on in the company, and shares your journey with your team. Only by sharing can we have a sense of understanding and help one another. It also helps us hone our communication skills.\n\nSummarized:\n\nWhat you work on is worth sharing\nMake what you share is informative\nInvite people in\n\n\nWhat does “build in public” mean?\nThe work you do is worth sharing. Not just the outputs, but the entire process. That also includes things that you are thinking about, struggling with, or have achieved. It means you do not have to go through this on your own. Gathering diverse perspectives on your issues also helps create new ideas.\n\n\nWe build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
-  },
-  {
-    "objectID": "culture/document.html#how",
-    "href": "culture/document.html#how",
-    "title": "Building in public",
-    "section": "",
-    "text": "We build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
+    "objectID": "onboarding/discord.html#getting-help",
+    "href": "onboarding/discord.html#getting-help",
+    "title": "Using Discord",
+    "section": "Getting help",
+    "text": "Getting help\nWe’re a pretty friendly bunch in there. If you need any assistance, ask in #help. No matter whether it’s debugging your audio or how to create your own Discord server - somebody will help you out!\n\n\n\n\n\n\nNeed help? Get help!\n\n\n\n#help is intended for any kind of help, whether it’s Discord related or anything else that you feel you would like our support on!\n\n\nIn the case of somebody being a pain, tag @mods and we will check it out. We do not tolerate any direct or indirect hate speech (see also our Code of Conduct)."
   }
 ]

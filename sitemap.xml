@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://libscie.org/summary.html</loc>
-    <lastmod>2023-06-21T13:46:15.272Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/index.html</loc>
-    <lastmod>2023-06-21T13:46:16.252Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/references.html</loc>
-    <lastmod>2023-06-21T13:46:16.692Z</lastmod>
-  </url>
-  <url>
     <loc>https://libscie.org/onboarding/researchequals.html</loc>
-    <lastmod>2023-06-21T13:46:17.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/onboarding/discord.html</loc>
-    <lastmod>2023-06-21T13:46:17.716Z</lastmod>
+    <lastmod>2023-06-30T07:17:59.572Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/onboarding/github.html</loc>
-    <lastmod>2023-06-21T13:46:18.376Z</lastmod>
+    <lastmod>2023-06-30T07:17:58.848Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/wages.html</loc>
-    <lastmod>2023-06-21T13:46:19.432Z</lastmod>
+    <lastmod>2023-06-30T07:17:58.088Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/equipment.html</loc>
-    <lastmod>2023-06-21T13:46:19.892Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/policies/meetings.html</loc>
-    <lastmod>2023-06-21T13:46:20.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/policies/coc.html</loc>
-    <lastmod>2023-06-21T13:46:21.060Z</lastmod>
+    <lastmod>2023-06-30T07:17:56.892Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/events.html</loc>
-    <lastmod>2023-06-21T13:46:21.532Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/intro.html</loc>
-    <lastmod>2023-06-21T13:46:21.980Z</lastmod>
+    <lastmod>2023-06-30T07:17:56.240Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/culture/jobs.html</loc>
-    <lastmod>2023-06-21T13:46:22.536Z</lastmod>
+    <lastmod>2023-06-30T07:17:55.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/index.html</loc>
+    <lastmod>2023-06-30T07:17:54.772Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/intro.html</loc>
+    <lastmod>2023-06-30T07:17:54.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/references.html</loc>
+    <lastmod>2023-06-30T07:17:55.140Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/culture/document.html</loc>
-    <lastmod>2023-06-21T13:46:23.012Z</lastmod>
+    <lastmod>2023-06-30T07:17:55.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/policies/meetings.html</loc>
+    <lastmod>2023-06-30T07:17:56.572Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/policies/coc.html</loc>
+    <lastmod>2023-06-30T07:17:57.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/summary.html</loc>
+    <lastmod>2023-06-30T07:17:58.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/onboarding/discord.html</loc>
+    <lastmod>2023-06-30T07:17:59.244Z</lastmod>
   </url>
 </urlset>
