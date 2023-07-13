@@ -1,0 +1,35 @@
+# Values
+
+We value a lot of things in our organization, and we do our best to be explicit about them, so that you know what you can expect.
+
+Our values are formulated in "X over Y" formats. This helps us highlight our own value and also what we actively avoid. This has (anecdotally) proven to make the values more informative in our everyday operations.
+
+<!-- ## Constructive selfishness over selfless destruction -->
+
+## Consent over paternalism
+
+We believe in personal autonomy and consent. This means that we respect boundaries, but we cannot articulate your boundaries for you. Every one of us needs to put in the work to articulate what we need, want, and desire in our work (and this is hard). It also means you are responsible for your (in)action. 
+
+## Done over perfect
+
+We operate under "good enough management." This means that goalposts need to be clear, time investments realistic, and clarity of what being done means. 
+
+## Clarity over ambiguity
+
+Sometimes it is better to make a suboptimal decision now and deal with the outcomes, than to keep mulling the decision over indefinitely. We can start with concrete outcomes, but not with ambiguous possibilities.
+
+## Explicit over implicit
+
+Communication is key to ensuring a shared understanding of what we do. When we make things explicit, we can see whether we really had a shared understanding. Explicit communication is also fertile ground for discourse. Being explicit is the compost from which we grow.
+
+<aside>See also [Building in Public](document.qmd).
+</aside>
+
+## Considerate over inattentive
+
+We all have things happening in our lives. To create a culture of understanding and learning, empathy and consideration of other people's positions is important. It helps us understand their decisions, and to provide for them. W
+
+
+- Support
+    - We have a support mindset with each other. If we cannot provide support, we say so.
+- Considerate

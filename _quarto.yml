@@ -38,8 +38,6 @@ website:
     title: "LibScie Handbook"
     collapse-below: lg
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "Quick links"
         menu:
           - href: "https://libscie.org"
@@ -48,9 +46,6 @@ website:
             text: "Blog editor"
           - href: "https://mngr.libscie.org"
             text: "LibScie Manager"
-          - href: "https://researchequals.com"
-            text: "ResearchEquals"
-
       - text: "Getting started"
         menu:
           - href: "onboarding/discord.qmd"
@@ -60,6 +55,7 @@ website:
         menu: 
           - href: "culture/document.qmd"
           - href: "culture/jobs.qmd"
+          - href: "culture/values.qmd"
           - href: "culture/workweek.qmd"
       - text: "Policies"
         menu:
@@ -67,12 +63,9 @@ website:
           - href: "policies/events.qmd"
           - href: "policies/equipment.qmd"
           - href: "policies/wages.qmd"
-
-      - text: "Help"
+      - text: "ResearchEquals"
         menu:
-          - text: "Report a Bug"
-            icon: "bug"
-            href: "https://github.com/libscie/policy/issues"
+          - href: "researchequals/cohorts.qmd"
     tools:
       - icon: github
         href: https://github.com/libscie

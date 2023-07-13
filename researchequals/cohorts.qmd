@@ -1,0 +1,124 @@
+# ResearchEquals Cohorts
+
+:::{.callout-tip}
+We regularly run cohorts - [check out our Tito page](https://ti.to/libscie) to see when and get your spot!
+:::
+
+This is the instructor guide for our ResearchEquals Cohorts. We iterate over create - so here's all you need right now to get started and run your own cohort, in case you want.
+
+<details>
+    <summary>Cohort onboarding</summary>
+
+- Welcome [00:00 - 00:15]
+    - Welcome on this journey of publishing your research differently [00:00 - 00:03]
+        - We will be discovering how to publish your research differently, and how to curate research differently.
+        - This is a safe space to learn, so I encourage questions and feedback, no matter how obvious it might feel.
+    - This session will be recorded! 🔴
+    - Short intro instructor [00:03-00:05]
+        - I’m Chris Hartgerink, founder of ResearchEquals and a researcher myself. I did my PhD in statistics, and am happy to now be working on sustainable alternatives in research that make our lives easier.
+        - ResearchEquals is one such project and I am thankful that you lot are making the time to join here!
+- Goals [00:05 - 00:07]
+    - The goal of the cohort is provide a safe learning environment around modular publishing. What is it? Why is it? How does it work?
+    - Together we’ll learn how to publish the research process instead of the results alone
+    - We’re also here, together, to create connection and community, so we don’t have to go at it alone.
+- Code of Conduct [00:07 - 00:10 - Vinodh Ilangovan]
+- Structure [00:10 - 00:15]
+    - Mon - Thu
+    - Meet in Zoom
+    - Chat in Discord
+    - There may be additional materials before the cohort calls for you to go through, which we’ll always keep time effective.
+    - At the end of the cohort, everybody who completed the course will receive a digital certificate.
+- Short introductions [00:15 - 00:30 - Chris]
+    - Getting the hang of whiteboards
+        - Where is everyone from
+    - Introduce yourself
+        - ~2min each
+            - Who are you
+            - Research interest
+            - What’s your guilty pleasure
+        - Others make sticky notes
+    - To make an account on ResearchEquals if they haven’t already
+    - Getting the hang of Discord [00:30 - 00:35 - Chris]
+- Closing
+    - On Thursday, same time, we will discuss modules in-depth, and
+
+</details>
+
+<details>
+    <summary>Why and what are modules?</summary>
+
+- Welcome
+    - [Icebreaker]
+    - Recap
+        - In our first call, we got to know each other a bit.
+        - For this call, you prepared by watching a short video on the idea of publishing the research process. You learned about selective publishing, and how altering predictions based on results may be a result from the article format.
+        - You now know that research modules are comparable to research steps.
+    - Today's goal: Understand single modules and what goes into a module.
+- Do you feel like published research in your field showcases the way research is actually done?
+    - Where could it improve?
+- What research steps are often overlooked in your field?
+- Demo ResearchEquals
+- Exercise
+    - [ ] Think about your most recent research project. What is the latest step you took? What are the outputs/files you created from this?
+    - [ ] Create your own draft module
+    - [ ] Go through the module types - are there any steps you are already missing?
+- Reportback from exercise
+    - What's your first impressions of research modules?
+- Recap of today
+    - We learned how to create our first module, and what has to be included for each module.
+    - We also learned what optional information 
+- Today we learned about individual steps in the research process. 
+    - Next time we'll talk more about how those steps combine into an entire research journey. 
+    - For the next call, take a few minutes to write down the steps involved in your research. 
+</details>
+
+<details>
+    <summary>Deconstructing your research</summary>
+
+- What's the added value in knowing the journey?
+
+</details>
+
+
+<details>
+    <summary>Publishing your first module</summary>
+
+
+</details>
+
+<details>
+    <summary>Kind collaboration</summary>
+
+
+</details>
+ 
+
+<details>
+    <summary>Curating research</summary>
+
+
+</details>
+
+<details>
+    <summary>Cohort graduation</summary>
+
+
+</details>
+
+
+## Visibility
+
+## Portfolio
+
+## Kind collaboration
+
+## Collection
+
+## Graduation
+
+## Icebreaker questions
+
+- What is one of your guilty pleasures?
+- What movie have you seen multiple times?
+- What is a classic movie you only saw until much later?
+- 
