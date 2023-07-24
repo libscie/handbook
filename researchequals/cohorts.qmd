@@ -72,24 +72,72 @@ This is the instructor guide for our ResearchEquals Cohorts. We iterate over cre
     - For the next call, take a few minutes to write down the steps involved in your research. 
 </details>
 
+
+
 <details>
     <summary>Deconstructing your research</summary>
 
-- What's the added value in knowing the journey?
-
+- Welcome [5min]
+    - [Icebreaker]
+    - Recap - we learned about singular modules last call
+    - Today we'll learn how all these modules tie together to create different research processes
+- Shareback: reflections on your own research journey [5min]
+    - What steps surprised you?
+    - What would you like your research journey to include, but currently do not?
+    - Where do you think your research is different from fields?
+- Exercise 1: Match the research process to the study type [5 min]
+- Discussion: What's the added value in sharing the research journey? [10min]
+- Exercise 2: Whiteboarding your research as a process [10min]
+    - What's the first step in a research process?
+    - What's the last step in a research process?
+    - Add other steps, before or after the ones already there
+- Discussion: Where would your presentations fit into this entire process?
+- Next call
+- Exercise 3: What are the three most recent research steps you've taken?
+    - Prepare drafts for each step (include the files, title, description)
 </details>
 
 
 <details>
-    <summary>Publishing your first module</summary>
+    <summary>Publishing your first module(s)</summary>
 
+- Welcome
+    - [Icebreaker]
+    - Last call, we worked on deconstructing the research process.
+    - Today is about applying that knowledge to your own work
+- Showcase: What were your three most recent research steps?
+- Demo: How to link modules
+    - Link to previous work outside of ResearchEquals
+    - Why can we only link once previous work is published?
+- Exercise: Link and publish your three prepared modules
+- Demo the graph
+- Planning the next three steps
+- Next call...
+    - ...is on how to collaborate
+    - Think about what's important to you?
+        - What are examples of good collaborators?
+        - What are examples of bad collaborators?
 
 </details>
 
 <details>
     <summary>Kind collaboration</summary>
 
-
+- Welcome
+    - [Icebreaker]
+- Reportback: Good/bad collaboration experiences
+- Exercise: Values for good collaboration
+- Demo: ResearchEquals collaboration sequence
+    - Create a draft module
+    - Invite others present
+    - Accept invitation
+    - Approve for publication
+- 
+- Next call...
+    - We'll have a guest!
+    - In the final content call, we'll learn how to curate research
+    - We've talked much about publishing your work, but we all do curation as well
+    - For next time, take ten minutes to reflect on what curation you already do (whether that's reading lists, controversial topics, topic deepdives, or anything else!)
 </details>
  
 
@@ -105,20 +153,16 @@ This is the instructor guide for our ResearchEquals Cohorts. We iterate over cre
 
 </details>
 
-
-## Visibility
-
-## Portfolio
-
-## Kind collaboration
-
-## Collection
-
-## Graduation
-
 ## Icebreaker questions
 
 - What is one of your guilty pleasures?
 - What movie have you seen multiple times?
 - What is a classic movie you only saw until much later?
-- 
+- What vegetable would you be? (vegetable or fruit discussions aside)
+- What’s something on your desk, a nearby wall, or out the window that cheers you up during the day?
+- What’s a common word or phrase that you don’t like/won’t use?
+- What is the most recent book you read? Did you like it?
+
+## Virtual teaching "tricks"
+
+- Let people raise their hand in Zoom whenever they're done with an exercise,
