@@ -1,0 +1,17 @@
+# Technical infrastructure
+
+This document contains (almost) all the information about how ResearchEquals is managed.
+
+## DNS
+
+The DNS records for ResearchEquals are maintained using [CloudFlare](https://cloudflare.com). 
+
+::: {.callout-warning}
+We're currently in the process of migrating things over
+:::
+
+If you need any updates to the DNS records, please file a ticket in the [LibScie Manager](https://mngr.libscie.org).
+
+## Flightcontrol
+
+The production services are deployed using Flightcontrol, as connected to our Amazon Web Services account. 
