@@ -1,0 +1,40 @@
+# Travel
+
+Our organisation wide travel policy outlines our provisions for work-related travel. Travel is defined as a business trip to a different city than the one you are based in. 
+
+For all business travel, budgets need to be pre-approved by your direct manager. We will reimburse transportation and accommodation expenses after approval by your direct manager. For approval, please submit an estimated budget for your travel, specifying lodging, travel, and other expenses you might need. 
+
+## Expenses
+
+::: {.callout-warning}
+We only provide reimbursements with receipts. Reimbursement claims need to be made within  eight weeks upon return. 
+::: 
+
+### Daily
+
+- We adhere to the United Nations Daily Subsistence Allowance (UN-DSA) rates. Please check their interactive map [here](https://icsc.un.org/#). This covers your accomodation, food, and all your other daily costs. If accomodation is booked through an agency, this amount is subtracted from your UN-DSA.
+    - Note that some places have multiple rates (e.g., New York City); a manager decides the applicable rate in that case.
+    - If you feel that this rate, for special circumstances, needs to be adjusted, please consult your manager on this.
+- For example, travel to Berlin has a UN-DSA of $287, with 56% reserved for accomodation. On 2020-04-06, $287 is 266.03EUR (1:0.93); this provides 148.98EUR p/night for accomodation and 117.05EUR p/day for other costs.
+- Local transportation costs may be split out over multiple days equally if it is a multi-day cost.
+- Please note that the UN-DSA is a cap — we trust that you will spend it within reason. :)
+
+### Special
+
+- **Legal & medical expenses:** If you need to travel to countries that need a visa or other documentation to enter, we will in general cover relevant expenses (excluding expenses for issuing passports). The same applies to medical expenses, like medical insurance for travelers, vaccinations or examinations.
+
+
+## Bookings
+
+- Travel can be booked through an agency (we are still looking for one) or at your own risk. Booking agencies can help claim any compensation due to delays, deal with your rebookings, etc.
+- Non-refundable bookings still count towards your budget. We recommend refundable bookings, or, if applicable, refund insurances.
+
+## Transport
+
+### Flights
+
+We do not cover flights, as per our [Event policy](./events.qmd).
+
+### Train
+
+We promote train usage, and within Germany we allow for first class train tickets. For international travel, this is handled on a case by case basis.
