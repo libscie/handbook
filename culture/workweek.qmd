@@ -1,0 +1,70 @@
+# Workweek
+
+Work is a part of your week, and we'd like for that to stay that way. In our culture, we focus the amount of time you spend on work.
+
+## When and how much?
+
+We run a four-day workweek (32 hours = full-time). Currently, fridays are our collective day off to do other things!
+
+::: {.callout-tip}
+The four-day workweek is a broader movement and has a lot of benefits. Follow the link if you'd like more information:  <https://fourdayweek.com/>
+:::
+
+Our regular hours are Monday-Thursday between 7am-8pm, in which you can flexibly allocate your hours. Our main operations timezone is Berlin (Germany; UTC+1 or UTC+2 during summertime). 
+
+## Right to disconnect
+
+When you're off work, you're *off work*. 
+
+You are responsible for setting your own work hours, and when those work hours are over, you can truly unplug from work and are not expected to answer work-related communications. If somebody does pressure you to do so, reach out to the [Code of Conduct committee](https://www.researchequals.com/coc). 
+
+We actively discourage you from installing any work-related communications (e.g., email) on non-company devices, to help with disconnecting and prevent feelings of having to respond. 
+
+::: {.callout-tip}
+For more information, check out [the Digital Justice project](https://www.digitaljustice.house/right-to-disconnect).
+:::
+
+<!-- Time tracking is necessary using the LibScie manager. This is where everybody gets to indicate whether they're online or not, and can be expected to respond. -->
+
+<!-- ## Time tracking
+
+For your own health and the business’s we require  you to document your work hours. We do this using Toggl.
+
+We regularly check for:
+
+- Over hours
+- Not enough rest (<11 hours between end on one day and start on the other)
+
+This is to safeguard that you get enough rest. If you work late in the evening, this al
+
+Over hours are not permitted unless explicitly approved by your manager.
+
+- Not to micromanage
+    - Don’t have to see the specifics
+- 
+- For healthy time management
+    - It’s for self-reflection, protection
+    - See whether feelings of time is in line with spending of time
+- Safe work practices -->
+## Making the most of it, together
+
+Less time at work means we all have to learn and help each other prioritize. This is a good thing.
+
+It also has a lot of implications that may be uncomfortable. Some of you might struggle saying no to things, others might struggle with receiving a no. It means being honest and considerate with your teammates, but also yourself. 
+
+Can you deliver what you promise? Does that meeting really need to involve everyone? Share your journey with your team, and when somebody shares their insecurities, thank them for it.
+
+
+## Time off
+
+You can take 1-2 personal days at any time, as long as it does not interrupt operations. Longer periods have to be approved by your direct manager and planned at least a month in advance. You are required to take at least 25 days per year
+
+<aside>
+🌳 If you don’t schedule maintenance, it will schedule itself.
+</aside>
+
+Not all time off is PTO. Here are other reasons to take time off while working at Liberate Science: 
+
+- You can get up to 6 weeks sick leave. Notify your manager on the first working day you are sick, and get a doctor’s note the same day.
+- We grant **1 day period leave** every month for menstruating people.
+- We grant special leave for sick care, bereavement, and other scenarios to the degree we reasonably can given the state of the business.

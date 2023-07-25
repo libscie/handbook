@@ -1,0 +1,27 @@
+# Celebrate
+
+We like to celebrate things, because it builds our community and allows us to appreciate what we've accomplished. Celebrating is a skill, not just an activity. Let's become professional celebraters!
+
+```{mermaid}
+flowchart LR;
+A[Identify] --> B[Celebrate] --> C[Document]
+```
+
+## Identify
+
+- [ ]  Who are we celebrating?
+- [ ]  Who is celebrating? (Internal, community, external)
+- [ ]  What are we celebrating?
+- [ ]  Why are we celebrating?
+- [ ]  Where are we celebrating?
+
+## Celebrate
+
+- [ ]  When are we celebrating?
+- [ ]  How are we celebrating?
+
+## Document
+
+- [ ]  How does this fit into the story?
+- [ ]  What does it mean to us?
+- [ ]  Where does this take us?
