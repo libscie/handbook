@@ -3,10 +3,10 @@ title: "Positions"
 ---
 
 ::: {.callout-tip}
-## Summary
-
 This page contains any and all positions that we're looking to fill at a given time. 
 :::
+
+- All positions include pay ranges
 
 ## Paid positions
 

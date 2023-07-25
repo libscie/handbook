@@ -11,6 +11,10 @@ Wage scales are separated for employees and formal directors. Formal directors a
 
 Each person in the organization is scaled according to their tenure in years with Liberate Science. During your first year after your start date, you are in scale 1. If you have been with the organization for 5 years, you are in scale 5. Overall, you get a lifetime pay rise of 62% notwithstanding inflation correction or future changes.
 
+# 2024
+
+TBD
+
 # 2023
 
 An increase of ~4.5% across the board compared to the year before.
