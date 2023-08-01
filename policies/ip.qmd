@@ -1,0 +1,23 @@
+# Openness
+
+We are a **continuously open** organisation. This means that we share our work publicly to the extent that we can, as soon as we can. For that work, we have some rules to ensure maximum reuse potential by ourselves and others. We share in-progress work, not just final outputs.
+
+## Copyright
+
+All copyrightable content created as part of your work for Liberate Science **must** be licensed permissively (i.e., permits unrestricted reuse, also commercial reuse). If you make any resources available online or share them, explicitly mention the license to ensure clarity on its reuse potential.
+
+All licenses must be clearly stated at their respective page.
+
+Our default licenses for use are:
+
+- Text → CC0 Public Domain Dedication
+- Code → MIT license
+- Data → CC0 Public Domain Dedication
+
+## Patents
+
+We are committed to not register patents, nor do we sponsor patent applications of work done at Liberate Science. As your work needs to be shared continuously, we maintain a philosophy of creating abundant prior art of whatever would otherwise be patentable. 
+
+## Trademarks
+
+We commit to not trademark brands and have not since we started in 2019.

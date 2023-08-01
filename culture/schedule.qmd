@@ -1,0 +1,33 @@
+# Schedule
+
+There's lots happening on a regular cadence. This is our ongoing audit of our regular community programming. The schedule is based on our [workweek](./workweek.qmd).
+
+## Weekly
+
+| Time     | Monday                                | Tuesday   | Wednesday           | Thursday            | Friday | Saturday | Sunday |
+| -------- | ------------------------------------- | --------- | ------------------- | ------------------- | ------ | -------- | ------ |
+|          |                                       |           |                     |                     |        |          |        |
+| 07:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 08:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 09:00:00 |                                       | Blog post |                     | Optional: Blog post | -      | -        | -      |
+| 10:00:00 | What's happening this week? [Discord] |           |                     |                     | -      | -        | -      |
+| 11:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 12:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 13:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 14:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 15:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 16:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 17:00:00 |                                       |           | Dependency upgrades |                     | -      | -        | -      |
+| 18:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 19:00:00 |                                       |           |                     |                     | -      | -        | -      |
+| 20:00:00 |                                       |           |                     |                     | -      | -        | -      |
+
+## Monthly
+
+When the 
+
+## Yearly
+
+| January | February | March            | April | May | June             | July | August | September        | October | November | December         |
+| ------- | -------- | ---------------- | ----- | --- | ---------------- | ---- | ------ | ---------------- | ------- | -------- | ---------------- |
+|         |          | General Assembly |       |     | General Assembly |      |        | General Assembly |         |          | General Assembly |

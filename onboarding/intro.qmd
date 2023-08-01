@@ -1,0 +1,9 @@
+# Onboarding intro
+
+- [ ] email drip
+
+
+## Activities
+
+- Capture the Flag
+- Livestream

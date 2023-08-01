@@ -1,0 +1,33 @@
+# Invoice
+
+Name and address of the issuer
+Name of the recipient
+Date of performance or date of delivery
+Scope of the service or the goods delivered
+Net invoice amount
+(Value added tax) - would be subject to reverse charge
+Date of issue
+Invoice number
+[VAT identification number or tax number of the issuer.]
+
+# Business to business (B2B)
+
+## VAT
+
+- For invoices from within Germany, VAT may be charged.
+- Invoices from within the EU but not Germany, must have 0% VAT and contain a mention of reverse charge VAT.
+
+### US
+
+Based on your below email we re-discussed the setup internally and became 
+aware of the fact, that according to the German tax administration, a NGO/NPO is qualified  as an entrepreneur for VAT purposes although its business is merely 
+limited to charitable activities. This qualification is rather unusual, and we did not take it into account in our initial reply to the similar case you brought to our attention.
+
+As a result of the **adjusted assessment, for German VAT** purposes the transaction is 
+qualified as a B2B rendering of services. In B2B cases the reverse 
+charge mechanism applies. As a result,
+
+- the underlying invoices do not carry German VAT, but
+- must include a tax reference “Not subject to VAT acc. To Art 196 EU-VAT Directive”.
+
+# B2C
