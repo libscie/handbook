@@ -144,12 +144,29 @@ This is the instructor guide for our ResearchEquals Cohorts. We iterate over cre
 <details>
     <summary>Curating research</summary>
 
+- Welcome
+    - [Icebreaker]
+- Reportback: Where do you already curate research?
+- Guest talk: What does curation mean to you?
+- What is the current state of curation?
+    - Overlay journals intro
+    - How many overlay journals exist
+    - Journals as communities
+- Demo collections ResearchEquals
+- Exercise: Create your own collection, play around, and share any feedback, thoughts or questions
+- Next call
 
 </details>
 
 <details>
     <summary>Cohort graduation</summary>
 
+
+- Welcome
+    - [Icebreaker]
+- Final evaluation 
+- Congratulate the cohort members
+- Celebrate by playing games in Discord lounge
 
 </details>
 
