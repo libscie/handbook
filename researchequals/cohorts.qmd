@@ -166,6 +166,7 @@ This is the instructor guide for our ResearchEquals Cohorts. We iterate over cre
     - [Icebreaker]
 - Final evaluation 
 - Congratulate the cohort members
+- How do we stay in touch?
 - Celebrate by playing games in Discord lounge
 
 </details>
