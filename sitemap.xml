@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://libscie.org/onboarding/researchequals.html</loc>
-    <lastmod>2023-08-07T14:05:03.299Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/onboarding/discord.html</loc>
-    <lastmod>2023-08-07T14:05:02.503Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/policies/events.html</loc>
-    <lastmod>2023-08-07T14:05:01.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/policies/wages.html</loc>
-    <lastmod>2023-08-07T14:05:01.127Z</lastmod>
-  </url>
-  <url>
     <loc>https://libscie.org/policies/travel.html</loc>
-    <lastmod>2023-08-07T14:05:00.083Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/policies/vacation.html</loc>
-    <lastmod>2023-08-07T14:04:59.343Z</lastmod>
+    <lastmod>2023-09-05T12:01:35.540Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/equipment.html</loc>
-    <lastmod>2023-08-07T14:04:58.479Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/researchequals/technical-infrastructure.html</loc>
-    <lastmod>2023-08-07T14:04:57.431Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/index.html</loc>
-    <lastmod>2023-08-07T14:04:56.811Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/intro.html</loc>
-    <lastmod>2023-08-07T14:04:56.151Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/culture/jobs.html</loc>
-    <lastmod>2023-08-07T14:04:55.499Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/culture/workweek.html</loc>
-    <lastmod>2023-08-07T14:04:54.751Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/culture/celebrate.html</loc>
-    <lastmod>2023-08-07T14:04:53.751Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/culture/workstyle.html</loc>
-    <lastmod>2023-08-07T14:04:52.987Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/culture/schedule.html</loc>
-    <lastmod>2023-08-07T14:04:54.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/culture/document.html</loc>
-    <lastmod>2023-08-07T14:04:55.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/culture/values.html</loc>
-    <lastmod>2023-08-07T14:04:55.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/references.html</loc>
-    <lastmod>2023-08-07T14:04:56.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/summary.html</loc>
-    <lastmod>2023-08-07T14:04:57.115Z</lastmod>
-  </url>
-  <url>
-    <loc>https://libscie.org/researchequals/cohorts.html</loc>
-    <lastmod>2023-08-07T14:04:58.163Z</lastmod>
+    <lastmod>2023-09-05T12:01:34.552Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/coc.html</loc>
-    <lastmod>2023-08-07T14:04:58.951Z</lastmod>
+    <lastmod>2023-09-05T12:01:33.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/policies/events.html</loc>
+    <lastmod>2023-09-05T12:01:32.308Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/policies/invoicing.html</loc>
-    <lastmod>2023-08-07T14:04:59.683Z</lastmod>
+    <lastmod>2023-09-05T12:01:31.452Z</lastmod>
   </url>
   <url>
-    <loc>https://libscie.org/policies/meetings.html</loc>
-    <lastmod>2023-08-07T14:05:00.411Z</lastmod>
+    <loc>https://libscie.org/researchequals/technical-infrastructure.html</loc>
+    <lastmod>2023-09-05T12:01:30.112Z</lastmod>
   </url>
   <url>
-    <loc>https://libscie.org/policies/ip.html</loc>
-    <lastmod>2023-08-07T14:05:01.451Z</lastmod>
+    <loc>https://libscie.org/summary.html</loc>
+    <lastmod>2023-09-05T12:01:29.340Z</lastmod>
   </url>
   <url>
-    <loc>https://libscie.org/onboarding/intro.html</loc>
-    <lastmod>2023-08-07T14:05:02.111Z</lastmod>
+    <loc>https://libscie.org/culture/document.html</loc>
+    <lastmod>2023-09-05T12:01:28.572Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/culture/jobs.html</loc>
+    <lastmod>2023-09-05T12:01:27.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/culture/workweek.html</loc>
+    <lastmod>2023-09-05T12:01:26.848Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/culture/celebrate.html</loc>
+    <lastmod>2023-09-05T12:01:25.864Z</lastmod>
   </url>
   <url>
     <loc>https://libscie.org/onboarding/github.html</loc>
-    <lastmod>2023-08-07T14:05:03.003Z</lastmod>
+    <lastmod>2023-09-05T12:01:25.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/onboarding/intro.html</loc>
+    <lastmod>2023-09-05T12:01:24.152Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/onboarding/discord.html</loc>
+    <lastmod>2023-09-05T12:01:23.400Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/onboarding/researchequals.html</loc>
+    <lastmod>2023-09-05T12:01:24.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/references.html</loc>
+    <lastmod>2023-09-05T12:01:25.448Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/culture/schedule.html</loc>
+    <lastmod>2023-09-05T12:01:26.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/culture/workstyle.html</loc>
+    <lastmod>2023-09-05T12:01:27.216Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/culture/values.html</loc>
+    <lastmod>2023-09-05T12:01:28.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/index.html</loc>
+    <lastmod>2023-09-05T12:01:28.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/intro.html</loc>
+    <lastmod>2023-09-05T12:01:29.712Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/researchequals/cohorts.html</loc>
+    <lastmod>2023-09-05T12:01:31.028Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/policies/ip.html</loc>
+    <lastmod>2023-09-05T12:01:31.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/policies/meetings.html</loc>
+    <lastmod>2023-09-05T12:01:32.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/policies/wages.html</loc>
+    <lastmod>2023-09-05T12:01:34.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://libscie.org/policies/vacation.html</loc>
+    <lastmod>2023-09-05T12:01:35.016Z</lastmod>
   </url>
 </urlset>
