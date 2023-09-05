@@ -84,3 +84,9 @@ If you need assistance at any time, ask in the `#help` channel on Discord. You d
 ## Saying hello 👋
 
 - Chris Hartgerink - [`@chartgerink`](https://github.com/chartgerink) - I enjoy writing on [my personal blog](https://chjh.nl)
+
+::: {.callout-tip}
+## Want to learn more about `git`?
+
+GitHub uses the software `git` under the hood. Knowing more about this software enables you to realize the potential of this power tool. Here's a great game to help you get started: https://ohmygit.org/
+:::
