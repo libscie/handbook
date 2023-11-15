@@ -84,6 +84,7 @@ If you need assistance at any time, ask in the `#help` channel on Discord. You d
 ## Saying hello 👋
 
 - Chris Hartgerink - [`@chartgerink`](https://github.com/chartgerink) - I enjoy writing on [my personal blog](https://chjh.nl)
+- Maya Anderson-Gonzalez - [`@mayaandersongonzalez`(https://github.com/mayaandersongonzalez] - I also enjoy (and wish I had more time for) writing on [my personal blog](https://mayaandersongonzalez.hcommons.org/)
 
 ::: {.callout-tip}
 ## Want to learn more about `git`?
