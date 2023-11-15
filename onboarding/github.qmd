@@ -75,7 +75,6 @@ That is pretty much it. Creating new repositories are for specific roles only, s
 - [ ] [Create a GitHub account](https://github.com/signup)
 - [ ] Take a look at the various repositories of [Liberate Science GmbH](https://github.com/libscie). Watch or favorite any of relevance to you 🌟
 - [ ] Propose an edit to this page, adding your name and GitHub username to the bottom of this page (include something about you that you'd like to share).
-- [ ] Invite the person above you in the list to review your edit
 
 ## Getting help
 
