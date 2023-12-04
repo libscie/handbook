@@ -1,0 +1,44 @@
+---
+title: "Standard Operating Procedures (SOPs)"
+---
+
+::: {.callout-tip}
+## Summary
+
+This page helps you navigate situations for which we standardize the way we operate. This is to help us build up the resources so we do not have to spend (too) much attention on the menial things.
+:::
+
+## Address change
+
+Once the lease is signed, we are ready to start the process of updating the address everywhere.
+
+1. Make an appointment with our notary
+1. Wait until the registration is processed (check in the Commerzregister)
+1. Update the address for all following services
+- [ ] [EORI](https://www.zoll.de/EN/Businesses/Movement-of-goods/Import/Duties-and-taxes/EORI-number/Requesting-EORI-number-amending-operator-particulars/requesting-eori-number-amending-operator-particulars_node.html)
+- [ ] Accountant
+- [ ] AWS
+- [ ] Bundesbank
+- [ ] Cloud68
+- [ ] Crossref
+- [ ] Deutsche Bahn
+- [ ] Deutsche Bank
+- [ ] DigitalOcean
+- [ ] Flightcontrol
+- [ ] Heroku
+- [ ] Hiscox
+- [ ] Holvi Bank
+- [ ] Hostnet
+- [ ] Liberate Science [Imprint](https://libscie.org/ghost)
+- [ ] Mailgun
+- [ ] Mathpix
+- [ ] Payroll
+- [ ] Postmark
+- [ ] Railway
+- [ ] ResearchEquals terms
+- [ ] Rundfunksbeitrag
+- [ ] Streamyard
+- [ ] Stripe
+- [ ] Ti.to
+- [ ] Uploadcare
+
