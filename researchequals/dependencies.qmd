@@ -1,0 +1,133 @@
+# Software dependencies
+
+We use a lot of different software to be able to run ResearchEquals. We regularly audit these as well so that we keep it slim, and identify where we can improve our work. We also use this opportunity to identify what projects we may support, to ensure we can keep using them.
+
+`@algolia/autocomplete-js` - Can be removed if search is done in-house
+
+`@blitzjs/auth` - Required
+
+`@blitzjs/next` - Required
+
+`@blitzjs/rpc` - Required
+
+`@carbon/icons-react` - Only replaceable if icon library is changed
+
+`@faker-js/faker` - Used in seeding script. May be moved to `devDependencies`
+
+`@headlessui/react` - Used for overlays. May be removed if everything is on a route
+
+`@prisma/client` - Required
+
+`@react-pdf-viewer/core` - Required for pdf viewing
+
+`@tailwindcss/forms` - Can be looked into how necessary it is
+
+`@uploadcare/react-widget` - Required for upload
+
+`algoliasearch` - Can be removed if search is done in-house
+
+`autoprefixer` - ???
+
+`axios` - Required for submissions to Crossref
+
+`blitz` - Required
+
+`classnames` - Can be removed if functionality is made redundant
+
+`concurrently` - Required for deployment
+
+`crisp-sdk-web` - Helpful library
+
+`dagre` - ???
+
+`feed` - Used for creating RSS feeds
+
+`filesize` - Filesize indication
+
+`form-data` - ???
+
+`formik` - Form framework
+
+`he` - ???
+
+`husky` - ???
+
+`i18next` - Used for localization, can be removed as not implemented right now (see also Weblate account)
+
+`iso-639-1` - ???
+
+`markdown-it` - Used for various pages /terms
+
+`moment` - ??? 
+
+`next` - Framework, required
+
+`passport-orcid` - Used for login
+
+`pdfjs-dist` - Used for pdfjs-dist version
+
+`postcss` - ???
+
+`postmark` - Used for  emails
+
+`prisma` - Required
+
+`quill` - Used for editor, possible to replace after harmonisation
+
+`quirrel` - Used for cron jobs
+
+`react` - Required
+
+`react-confetti` - Can be further audited for need 
+
+`react-cookie-consent` - Required
+
+`react-dom` - Required
+
+`react-flow-renderer` - ???
+
+`react-helmet` - ???
+
+`react-hot-toast` - Toast generator
+
+`react-i18next` - ???
+
+`react-markdown` - Used for markdown rendering
+
+`react-media-hook` - ???
+
+`react-quilljs` - Editor, can be harmonised
+
+`react-syntax-highlighter` - Used for markdown syntax
+
+`react-use` - ???
+
+`react-xarrows` - ??? 
+
+`recharts` - /stats
+
+`recoil` - state management - can be improved
+
+`recoil-persist` - state management - can be improved
+
+`rehype-external-links` - markdown
+
+`rehype-katex` - markdown
+
+`remark-gfm` - markdown
+
+`remark-math` - markdown
+
+`secure-password` - ???
+
+`stripe` - Required
+
+`tailwindcss` - Needed
+
+`typescript` - Required
+
+`xast-util-to-xml` - can it be moved to devDepencies?
+
+`xml-js` - ???
+
+`zod` - Validation library
