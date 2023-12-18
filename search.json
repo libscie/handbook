@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "culture/document.html",
-    "href": "culture/document.html",
-    "title": "Building in public",
+    "objectID": "culture/workstyle.html",
+    "href": "culture/workstyle.html",
+    "title": "Our workstyle",
     "section": "",
-    "text": "Tip\n\n\n\nWe’re working together to get things done - this means sharing what you’re doing. By building in public, you are continuously documenting and communicating about your work.\n\n\nWe maintain a “build in public” mindset throughout Liberate Science’s operations. In order to provide a culture of sharing within the organization, it is vital to share what you are working on. This helps us understand each other’s workloads, what’s going on in the company, and shares your journey with your team. Only by sharing can we have a sense of understanding and help one another. It also helps us hone our communication skills.\n\nSummarized:\n\nWhat you work on is worth sharing\nMake what you share is informative\nInvite people in\n\n\nWhat does “build in public” mean?\nThe work you do is worth sharing. Not just the outputs, but the entire process. That also includes things that you are thinking about, struggling with, or have achieved. It means you do not have to go through this on your own. Gathering diverse perspectives on your issues also helps create new ideas.\n\n\nWe build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
-  },
-  {
-    "objectID": "culture/document.html#how",
-    "href": "culture/document.html#how",
-    "title": "Building in public",
-    "section": "",
-    "text": "We build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
+    "text": "Our workstyle\nWe are open - we share our work as widely as possible.\nWe share our work at 50%, to get input early, not just when it is done.\nWe are a remote organization, and work asynchronously where possible, synchronous where necessary.\nWe promise what we can deliver, and we deliver what we promise.\nIf plans change, we communicate it with the people involved.\nWe use inclusive language."
   },
   {
     "objectID": "culture/values.html",
@@ -56,39 +49,60 @@
     "text": "We all have things happening in our lives. To create a culture of understanding and learning, empathy and consideration of other people’s positions is important. It helps us understand their decisions, and to provide for them. W\n\nSupport\n\nWe have a support mindset with each other. If we cannot provide support, we say so.\n\nConsiderate"
   },
   {
-    "objectID": "culture/celebrate.html",
-    "href": "culture/celebrate.html",
-    "title": "Celebrate",
+    "objectID": "culture/jobs.html",
+    "href": "culture/jobs.html",
+    "title": "Positions",
     "section": "",
-    "text": "We like to celebrate things, because it builds our community and allows us to appreciate what we’ve accomplished. Celebrating is a skill, not just an activity. Let’s become professional celebraters!\n\n\n\n\nflowchart LR;\nA[Identify] --&gt; B[Celebrate] --&gt; C[Document]\n\n\n\n\n\n\n\n\nWho are we celebrating?\nWho is celebrating? (Internal, community, external)\nWhat are we celebrating?\nWhy are we celebrating?\nWhere are we celebrating?\n\n\n\n\n\nWhen are we celebrating?\nHow are we celebrating?\n\n\n\n\n\nHow does this fit into the story?\nWhat does it mean to us?\nWhere does this take us?"
+    "text": "Tip\n\n\n\nThis page contains any and all positions that we’re looking to fill at a given time."
   },
   {
-    "objectID": "culture/celebrate.html#identify",
-    "href": "culture/celebrate.html#identify",
-    "title": "Celebrate",
-    "section": "",
-    "text": "Who are we celebrating?\nWho is celebrating? (Internal, community, external)\nWhat are we celebrating?\nWhy are we celebrating?\nWhere are we celebrating?"
+    "objectID": "culture/jobs.html#paid-positions",
+    "href": "culture/jobs.html#paid-positions",
+    "title": "Positions",
+    "section": "Paid positions",
+    "text": "Paid positions\nNone at this time."
   },
   {
-    "objectID": "culture/celebrate.html#celebrate-1",
-    "href": "culture/celebrate.html#celebrate-1",
-    "title": "Celebrate",
-    "section": "",
-    "text": "When are we celebrating?\nHow are we celebrating?"
+    "objectID": "culture/jobs.html#volunteer-positions",
+    "href": "culture/jobs.html#volunteer-positions",
+    "title": "Positions",
+    "section": "Volunteer positions",
+    "text": "Volunteer positions\n\n\nCommittee member for Code of Conduct\n\nJoining the Code of Conduct committee means you get to shape how our community mitigates harm and promotes joy. The committee helps create spaces where we collectively thrive, not just survive.\nDoes this sound like something you’d be interested in? Read on for more details.\n\nRequirements\n\nYou have demonstable experience in open research.\nYou are cognisant of power dynamics/intersectionality (e.g., implicit biases).\nYou are reliable, self-reflective, empathetic, and comfortable with complexity.\nYou are aware of intercultural sensitivities.\nYou appreciate and have a sense of community.\nYou sign on to our general mission and current code of conduct.\n\n\n\nCommitments\n\n60 minute meeting every quarter, plus 2 hours availability per incident report (2021: 1 report, 2022: no reports)\n5 hours for CoC training workshop\nAdditional commitments at own discretion\nCommit for at least one year, at most two years\n\n\n\nIncentives\n\n$350 Code of Conduct training provided\nAgency in deciding what committee budget gets spent on\nAgency in revising CoC\nOpportunity to cultivate safer communities and transformative justice\nComplimentary ResearchEquals supporting membership for double the duration of committee membership"
   },
   {
-    "objectID": "culture/celebrate.html#document",
-    "href": "culture/celebrate.html#document",
-    "title": "Celebrate",
+    "objectID": "culture/workweek.html",
+    "href": "culture/workweek.html",
+    "title": "Workweek",
     "section": "",
-    "text": "How does this fit into the story?\nWhat does it mean to us?\nWhere does this take us?"
+    "text": "Work is a part of your week, and we’d like for that to stay that way. In our culture, we focus the amount of time you spend on work.\n\n\nWe run a four-day workweek (32 hours = full-time). Currently, fridays are our collective day off to do other things!\n\n\n\n\n\n\nTip\n\n\n\nThe four-day workweek is a broader movement and has a lot of benefits. Follow the link if you’d like more information: https://fourdayweek.com/\n\n\nOur regular hours are Monday-Thursday between 7am-8pm, in which you can flexibly allocate your hours. Our main operations timezone is Berlin (Germany; UTC+1 or UTC+2 during summertime).\n\n\n\nWhen you’re off work, you’re off work.\nYou are responsible for setting your own work hours, and when those work hours are over, you can truly unplug from work and are not expected to answer work-related communications. If somebody does pressure you to do so, reach out to the Code of Conduct committee.\nWe actively discourage you from installing any work-related communications (e.g., email) on non-company devices, to help with disconnecting and prevent feelings of having to respond.\n\n\n\n\n\n\nTip\n\n\n\nFor more information, check out the Digital Justice project.\n\n\n\n\n\n\n\nLess time at work means we all have to learn and help each other prioritize. This is a good thing.\nIt also has a lot of implications that may be uncomfortable. Some of you might struggle saying no to things, others might struggle with receiving a no. It means being honest and considerate with your teammates, but also yourself.\nCan you deliver what you promise? Does that meeting really need to involve everyone? Share your journey with your team, and when somebody shares their insecurities, thank them for it.\n\n\n\nYou can take 1-2 personal days at any time, as long as it does not interrupt operations. Longer periods have to be approved by your direct manager and planned at least a month in advance. You are required to take at least 25 days per year\n\n🌳 If you don’t schedule maintenance, it will schedule itself.\n\nNot all time off is PTO. Here are other reasons to take time off while working at Liberate Science:\n\nYou can get up to 6 weeks sick leave. Notify your manager on the first working day you are sick, and get a doctor’s note the same day.\nWe grant 1 day period leave every month for menstruating people.\nWe grant special leave for sick care, bereavement, and other scenarios to the degree we reasonably can given the state of the business."
   },
   {
-    "objectID": "culture/workstyle.html",
-    "href": "culture/workstyle.html",
-    "title": "Our workstyle",
+    "objectID": "culture/workweek.html#when-and-how-much",
+    "href": "culture/workweek.html#when-and-how-much",
+    "title": "Workweek",
     "section": "",
-    "text": "Our workstyle\nWe are open - we share our work as widely as possible.\nWe share our work at 50%, to get input early, not just when it is done.\nWe are a remote organization, and work asynchronously where possible, synchronous where necessary.\nWe promise what we can deliver, and we deliver what we promise.\nIf plans change, we communicate it with the people involved.\nWe use inclusive language."
+    "text": "We run a four-day workweek (32 hours = full-time). Currently, fridays are our collective day off to do other things!\n\n\n\n\n\n\nTip\n\n\n\nThe four-day workweek is a broader movement and has a lot of benefits. Follow the link if you’d like more information: https://fourdayweek.com/\n\n\nOur regular hours are Monday-Thursday between 7am-8pm, in which you can flexibly allocate your hours. Our main operations timezone is Berlin (Germany; UTC+1 or UTC+2 during summertime)."
+  },
+  {
+    "objectID": "culture/workweek.html#right-to-disconnect",
+    "href": "culture/workweek.html#right-to-disconnect",
+    "title": "Workweek",
+    "section": "",
+    "text": "When you’re off work, you’re off work.\nYou are responsible for setting your own work hours, and when those work hours are over, you can truly unplug from work and are not expected to answer work-related communications. If somebody does pressure you to do so, reach out to the Code of Conduct committee.\nWe actively discourage you from installing any work-related communications (e.g., email) on non-company devices, to help with disconnecting and prevent feelings of having to respond.\n\n\n\n\n\n\nTip\n\n\n\nFor more information, check out the Digital Justice project."
+  },
+  {
+    "objectID": "culture/workweek.html#making-the-most-of-it-together",
+    "href": "culture/workweek.html#making-the-most-of-it-together",
+    "title": "Workweek",
+    "section": "",
+    "text": "Less time at work means we all have to learn and help each other prioritize. This is a good thing.\nIt also has a lot of implications that may be uncomfortable. Some of you might struggle saying no to things, others might struggle with receiving a no. It means being honest and considerate with your teammates, but also yourself.\nCan you deliver what you promise? Does that meeting really need to involve everyone? Share your journey with your team, and when somebody shares their insecurities, thank them for it."
+  },
+  {
+    "objectID": "culture/workweek.html#time-off",
+    "href": "culture/workweek.html#time-off",
+    "title": "Workweek",
+    "section": "",
+    "text": "You can take 1-2 personal days at any time, as long as it does not interrupt operations. Longer periods have to be approved by your direct manager and planned at least a month in advance. You are required to take at least 25 days per year\n\n🌳 If you don’t schedule maintenance, it will schedule itself.\n\nNot all time off is PTO. Here are other reasons to take time off while working at Liberate Science:\n\nYou can get up to 6 weeks sick leave. Notify your manager on the first working day you are sick, and get a doctor’s note the same day.\nWe grant 1 day period leave every month for menstruating people.\nWe grant special leave for sick care, bereavement, and other scenarios to the degree we reasonably can given the state of the business."
   },
   {
     "objectID": "onboarding/discord.html",
@@ -126,11 +140,46 @@
     "text": "Getting help\nWe’re a pretty friendly bunch in there. If you need any assistance, ask in #help. No matter whether it’s debugging your audio or how to create your own Discord server - somebody will help you out!\n\n\n\n\n\n\nNeed help? Get help!\n\n\n\n#help is intended for any kind of help, whether it’s Discord related or anything else that you feel you would like our support on!\n\n\nIn the case of somebody being a pain, tag @mods and we will check it out. We do not tolerate any direct or indirect hate speech (see also our Code of Conduct)."
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "operations/standard-operating-procedures.html",
+    "href": "operations/standard-operating-procedures.html",
+    "title": "Standard Operating Procedures (SOPs)",
     "section": "",
-    "text": "References"
+    "text": "Summary\n\n\n\nThis page helps you navigate situations for which we standardize the way we operate. This is to help us build up the resources so we do not have to spend (too) much attention on the menial things."
+  },
+  {
+    "objectID": "operations/standard-operating-procedures.html#address-change",
+    "href": "operations/standard-operating-procedures.html#address-change",
+    "title": "Standard Operating Procedures (SOPs)",
+    "section": "Address change",
+    "text": "Address change\nOnce the lease is signed, we are ready to start the process of updating the address everywhere.\n\nMake an appointment with our notary\nWait until the registration is processed (check in the Commerzregister)\nUpdate the address for all following services\n\n\nEORI\nAccountant\nAWS\nBundesbank\nCloud68\nCrossref\nDeutsche Bahn\nDeutsche Bank\nDigitalOcean\nFlightcontrol\nHeroku\nHiscox\nHolvi Bank\nHostnet\nLiberate Science Imprint\nMailgun\nMathpix\nPayroll\nPostmark\nRailway\nResearchEquals terms\nRundfunksbeitrag\nStreamyard\nStripe\nTi.to\nUploadcare"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome 📚🤩",
+    "section": "",
+    "text": "This is our collective handbook, with the resources needed to create a shared understanding of how we work at Liberate Science.\n\n\n\n\n\n\nSearch\n\n\n\nUse the search button 🔍 in the top right corner to search through all the pages in this handbook.\n\n\nHow we work is continuously evolving, so we encourage suggested edits! This also means checking in here to ensure you are aware of the latest changes.\nThis handbook applies to both employees, contractors, volunteers, and otherwise. Some of it is descriptive (how we actually work) and some of it is prescriptive (how we should work)."
+  },
+  {
+    "objectID": "researchequals/technical-infrastructure.html",
+    "href": "researchequals/technical-infrastructure.html",
+    "title": "Technical infrastructure",
+    "section": "",
+    "text": "This document contains (almost) all the information about how ResearchEquals is managed.\n\n\nThe DNS records for ResearchEquals are maintained using CloudFlare.\n\n\n\n\n\n\nWarning\n\n\n\nWe’re currently in the process of migrating things over\n\n\nIf you need any updates to the DNS records, please file a ticket in the LibScie Manager.\n\n\n\nThe production services are deployed using Flightcontrol, as connected to our Amazon Web Services account."
+  },
+  {
+    "objectID": "researchequals/technical-infrastructure.html#dns",
+    "href": "researchequals/technical-infrastructure.html#dns",
+    "title": "Technical infrastructure",
+    "section": "",
+    "text": "The DNS records for ResearchEquals are maintained using CloudFlare.\n\n\n\n\n\n\nWarning\n\n\n\nWe’re currently in the process of migrating things over\n\n\nIf you need any updates to the DNS records, please file a ticket in the LibScie Manager."
+  },
+  {
+    "objectID": "researchequals/technical-infrastructure.html#flightcontrol",
+    "href": "researchequals/technical-infrastructure.html#flightcontrol",
+    "title": "Technical infrastructure",
+    "section": "",
+    "text": "The production services are deployed using Flightcontrol, as connected to our Amazon Web Services account."
   },
   {
     "objectID": "researchequals/cohorts.html",
@@ -154,11 +203,25 @@
     "text": "Let people raise their hand in Zoom whenever they’re done with an exercise,"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome 📚🤩",
+    "objectID": "policies/wages.html",
+    "href": "policies/wages.html",
+    "title": "Wage transparency",
     "section": "",
-    "text": "This is our collective handbook, with the resources needed to create a shared understanding of how we work at Liberate Science.\n\n\n\n\n\n\nSearch\n\n\n\nUse the search button 🔍 in the top right corner to search through all the pages in this handbook.\n\n\nHow we work is continuously evolving, so we encourage suggested edits! This also means checking in here to ensure you are aware of the latest changes.\nThis handbook applies to both employees, contractors, volunteers, and otherwise. Some of it is descriptive (how we actually work) and some of it is prescriptive (how we should work)."
+    "text": "Wage transparency\nOnce a year, we set our wage sheet collectively. Everybody who is on Liberate Science’s payroll gets to participate in discussions leading up to the changes.\nWage scales are separated for employees and formal directors. Formal directors are registered in the Chamber of Commerce, carry additional obligations and responsibilities, and have different contracts. Directors receive 12 months’ pay, whereas employees receive 12 months’ pay plus an additional 2 (holiday money, prorated according to tenure and paid out in May + December).\n\nHoliday pay is prorated on the basis of employment during the cycles May-May and December-December. For example, if you started on September 1st, you get 4/12th holiday pay in December and 9/12th in May.\n\nEach person in the organization is scaled according to their tenure in years with Liberate Science. During your first year after your start date, you are in scale 1. If you have been with the organization for 5 years, you are in scale 5. Overall, you get a lifetime pay rise of 62% notwithstanding inflation correction or future changes.\n\n\n2024\nTBD\n\n\n2023\nAn increase of ~4.5% across the board compared to the year before.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmployee\n\n\nDirector\n\n\n\n\n\n\n\nYear\nIndex\nMonthly\nYearly\nIndex\nMonthly\nYearly\nRatio D/E\n\n\n1\n100.00%\n€ 3,296.39\n€ 46,149.45\n100.00%\n€ 5,360.00\n€ 64,320.00\n1.39\n\n\n2\n100.00%\n€ 3,296.39\n€ 46,149.45\n100.00%\n€ 5,360.00\n€ 64,320.00\n1.39\n\n\n3\n106.25%\n€ 3,502.41\n€ 49,033.79\n106.25%\n€ 5,695.00\n€ 68,340.00\n1.39\n\n\n4\n106.25%\n€ 3,721.31\n€ 52,098.40\n106.25%\n€ 6,050.94\n€ 72,611.25\n1.39\n\n\n5\n106.25%\n€ 3,953.90\n€ 55,354.55\n106.25%\n€ 6,429.12\n€ 77,149.45\n1.39\n\n\n6\n106.25%\n€ 4,201.02\n€ 58,814.21\n106.25%\n€ 6,830.94\n€ 81,971.29\n1.39\n\n\n7\n106.25%\n€ 4,463.58\n€ 62,490.10\n106.25%\n€ 7,257.87\n€ 87,094.50\n1.39\n\n\n8\n106.25%\n€ 4,742.55\n€ 66,395.73\n106.25%\n€ 7,711.49\n€ 92,537.91\n1.39\n\n\n9\n106.25%\n€ 5,038.96\n€ 70,545.46\n106.25%\n€ 8,193.46\n€ 98,321.53\n1.39\n\n\n10\n106.25%\n€ 5,353.90\n€ 74,954.56\n106.25%\n€ 8,705.55\n€ 104,466.62\n1.39\n\n\nLifetime\n162.00%\n\n\n162.00%\n\n\n2.26\n\n\n\n\n\n2022\n\nAn increase of ~2.5% across the board.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmployee\n\n\nDirector\n\n\n\n\n\n\n\nYear\nIndex\nMonthly\nYearly\nIndex\nMonthly\nYearly\nRatio D/E\n\n\n1\n100.00%\n€ 3,152.21\n€ 44,130.89\n100.00%\n€ 5,125.56\n€ 61,506.67\n1.39\n\n\n2\n100.00%\n€ 3,152.21\n€ 44,130.89\n100.00%\n€ 5,125.56\n€ 61,506.67\n1.39\n\n\n3\n106.25%\n€ 3,349.22\n€ 46,889.07\n106.25%\n€ 5,445.90\n€ 65,350.83\n1.39\n\n\n4\n106.25%\n€ 3,558.55\n€ 49,819.64\n106.25%\n€ 5,786.27\n€ 69,435.26\n1.39\n\n\n5\n106.25%\n€ 3,780.95\n€ 52,933.36\n106.25%\n€ 6,147.91\n€ 73,774.96\n1.39\n\n\n6\n106.25%\n€ 4,017.26\n€ 56,241.70\n106.25%\n€ 6,532.16\n€ 78,385.90\n1.39\n\n\n7\n106.25%\n€ 4,268.34\n€ 59,756.81\n106.25%\n€ 6,940.42\n€ 83,285.02\n1.39\n\n\n8\n106.25%\n€ 4,535.11\n€ 63,491.61\n106.25%\n€ 7,374.19\n€ 88,490.33\n1.39\n\n\n9\n106.25%\n€ 4,818.56\n€ 67,459.83\n106.25%\n€ 7,835.08\n€ 94,020.98\n1.39\n\n\n10\n106.25%\n€ 5,119.72\n€ 71,676.07\n106.25%\n€ 8,324.77\n€ 99,897.29\n1.39\n\n\nLifetime\n162.00%\n\n\n162.00%\n\n\n2.26\n\n\n\n\n\n\n2021\n\nThis was the first documented wage sheet in this style.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmployee\n\n\nDirector\n\n\n\n\n\n\n\nYear\nIndex\nMonthly\nYearly\nIndex\nMonthly\nYearly\nRatio D/E\n\n\n1\n100%\n€ 3.074,99\n€ 43.049,86\n100%\n€ 5.000,00\n€ 60.000,00\n1,39\n\n\n2\n100%\n€ 3.074,99\n€ 43.049,86\n100%\n€ 5.000,00\n€ 60.000,00\n1,39\n\n\n3\n106%\n€ 3.267,18\n€ 45.740,48\n106%\n€ 5.312,50\n€ 63.750,00\n1,39\n\n\n4\n106%\n€ 3.471,38\n€ 48.599,26\n106%\n€ 5.644,53\n€ 67.734,38\n1,39\n\n\n5\n106%\n€ 3.688,34\n€ 51.636,71\n106%\n€ 5.997,31\n€ 71.967,77\n1,39\n\n\n6\n106%\n€ 3.918,86\n€ 54.864,00\n106%\n€ 6.372,15\n€ 76.465,76\n1,39\n\n\n7\n106%\n€ 4.163,79\n€ 58.293,00\n106%\n€ 6.770,41\n€ 81.244,87\n1,39\n\n\n8\n106%\n€ 4.424,02\n€ 61.936,32\n106%\n€ 7.193,56\n€ 86.322,67\n1,39\n\n\n9\n106%\n€ 4.700,52\n€ 65.807,34\n106%\n€ 7.643,15\n€ 91.717,84\n1,39\n\n\n10\n106%\n€ 4.994,31\n€ 69.920,30\n106%\n€ 8.120,85\n€ 97.450,21\n1,39\n\n\nLifetime\n162%\n\n\n162%\n\n\n2,26"
+  },
+  {
+    "objectID": "policies/invoicing.html",
+    "href": "policies/invoicing.html",
+    "title": "Invoice",
+    "section": "",
+    "text": "Name and address of the issuer Name of the recipient Date of performance or date of delivery Scope of the service or the goods delivered Net invoice amount (Value added tax) - would be subject to reverse charge Date of issue Invoice number [VAT identification number or tax number of the issuer.]"
+  },
+  {
+    "objectID": "policies/invoicing.html#vat",
+    "href": "policies/invoicing.html#vat",
+    "title": "Invoice",
+    "section": "VAT",
+    "text": "VAT\n\nFor invoices from within Germany, VAT may be charged.\nInvoices from within the EU but not Germany, must have 0% VAT and contain a mention of reverse charge VAT.\n\n\nUS\nBased on your below email we re-discussed the setup internally and became aware of the fact, that according to the German tax administration, a NGO/NPO is qualified as an entrepreneur for VAT purposes although its business is merely limited to charitable activities. This qualification is rather unusual, and we did not take it into account in our initial reply to the similar case you brought to our attention.\nAs a result of the adjusted assessment, for German VAT purposes the transaction is qualified as a B2B rendering of services. In B2B cases the reverse charge mechanism applies. As a result,\n\nthe underlying invoices do not carry German VAT, but\nmust include a tax reference “Not subject to VAT acc. To Art 196 EU-VAT Directive”."
   },
   {
     "objectID": "policies/travel.html",
@@ -189,53 +252,53 @@
     "text": "We do not cover flights, as per our Event policy.\n\n\n\nWe promote train usage, and within Germany we allow for first class train tickets. For international travel, this is handled on a case by case basis."
   },
   {
-    "objectID": "policies/equipment.html",
-    "href": "policies/equipment.html",
-    "title": "Equipment policy",
+    "objectID": "policies/coc.html",
+    "href": "policies/coc.html",
+    "title": "Code of Conduct",
     "section": "",
-    "text": "We use equipment for at least four years\nEquipment emissions are part of the purchase decision.\nWe repair instead of replace.\nWe actively minimize our inventory.\nWe aim to provide real-time inventory tracking.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Equipment policy"
+    "text": "Important\n\n\n\nThe general code of conduct is included in ResearchEquals. It applies to all we do at Liberate Science GmbH - we keep it in one place to prevent duplication elsewhere.\n\n\nThe Code of Conduct for Liberate Science GmbH and ResearchEquals helps us mitigate harm and promote joy. We want to create spaces where we collectively thrive, not just survive. This is why the best summary for all of this is: Help yourself and others thrive. This keeps our community safe and secure.\n\n\n\nAdd recusal policy to code of conduct\nImprove processes for collaborators/partners to formally agree to adhering to the CoC\nLink CoC with theory of change\nSeek engagement with other CoCs\n\n\n\n\nThe committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nOne incident reported by committee member. Committee member recused from the process, external advisor hired. Resolved internally with new action items to improve the processes.\n\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]\n\n\n\n\n\n\nSome helpful resources for you:\n\nConflicts of Interest\nCode of Conduct workshop materials (Otter Technology)"
   },
   {
-    "objectID": "policies/equipment.html#rules",
-    "href": "policies/equipment.html#rules",
-    "title": "Equipment policy",
+    "objectID": "policies/coc.html#current-action-items",
+    "href": "policies/coc.html#current-action-items",
+    "title": "Code of Conduct",
     "section": "",
-    "text": "We use equipment for at least four years\nEquipment emissions are part of the purchase decision.\nWe repair instead of replace.\nWe actively minimize our inventory.\nWe aim to provide real-time inventory tracking.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Equipment policy"
+    "text": "Add recusal policy to code of conduct\nImprove processes for collaborators/partners to formally agree to adhering to the CoC\nLink CoC with theory of change\nSeek engagement with other CoCs"
   },
   {
-    "objectID": "policies/events.html",
-    "href": "policies/events.html",
-    "title": "Event policy",
+    "objectID": "policies/coc.html#committee-structure",
+    "href": "policies/coc.html#committee-structure",
+    "title": "Code of Conduct",
     "section": "",
-    "text": "We consider any gathering of people, at our request, an event. This also includes travel at our request."
+    "text": "The committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nOne incident reported by committee member. Committee member recused from the process, external advisor hired. Resolved internally with new action items to improve the processes.\n\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]"
   },
   {
-    "objectID": "policies/events.html#rules",
-    "href": "policies/events.html#rules",
-    "title": "Event policy",
-    "section": "Rules",
-    "text": "Rules\n\nWe run all our events virtually by default.\nLocal in-person events are permitted when a clear added value is documented.\nEverywhere we can go in 8 hours with public transport is considered local.\nIn-person events only happen with the consent of attendees.\nHybrid events are organized as virtual first.\nThe event policy applies to both internal and external events.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Event policy"
-  },
-  {
-    "objectID": "policies/invoicing.html",
-    "href": "policies/invoicing.html",
-    "title": "Invoice",
+    "objectID": "policies/coc.html#resources",
+    "href": "policies/coc.html#resources",
+    "title": "Code of Conduct",
     "section": "",
-    "text": "Name and address of the issuer Name of the recipient Date of performance or date of delivery Scope of the service or the goods delivered Net invoice amount (Value added tax) - would be subject to reverse charge Date of issue Invoice number [VAT identification number or tax number of the issuer.]"
+    "text": "Some helpful resources for you:\n\nConflicts of Interest\nCode of Conduct workshop materials (Otter Technology)"
   },
   {
-    "objectID": "policies/invoicing.html#vat",
-    "href": "policies/invoicing.html#vat",
-    "title": "Invoice",
-    "section": "VAT",
-    "text": "VAT\n\nFor invoices from within Germany, VAT may be charged.\nInvoices from within the EU but not Germany, must have 0% VAT and contain a mention of reverse charge VAT.\n\n\nUS\nBased on your below email we re-discussed the setup internally and became aware of the fact, that according to the German tax administration, a NGO/NPO is qualified as an entrepreneur for VAT purposes although its business is merely limited to charitable activities. This qualification is rather unusual, and we did not take it into account in our initial reply to the similar case you brought to our attention.\nAs a result of the adjusted assessment, for German VAT purposes the transaction is qualified as a B2B rendering of services. In B2B cases the reverse charge mechanism applies. As a result,\n\nthe underlying invoices do not carry German VAT, but\nmust include a tax reference “Not subject to VAT acc. To Art 196 EU-VAT Directive”."
-  },
-  {
-    "objectID": "policies/vacation.html",
-    "href": "policies/vacation.html",
-    "title": "Vacation policy",
+    "objectID": "policies/meetings.html",
+    "href": "policies/meetings.html",
+    "title": "Meeting policy",
     "section": "",
-    "text": "Vacation policy\nVacation days template\n\n\nPolicy\n\n💡 German employment law is rather complex and different regulations can apply for different conditions that might not be fully covered in this document. If you have any questions or concerns, please always feel free to ask your manager about your specific case.\n\n\nInternal policy\n\nThe maximum vacation days is 36 per year (= 288 hours) if you work the full year at 1FTE. If you started during the year the number of days is proportional and probably mentioned in your contract.\nEvery internal employee has a protected page shared only your managers, where the vacation days can be tracked. You have to manually input the number of vacation days taken. One vacation day equals 8 hours. One week off equals 32 hours (4 full work days with 8 hours each). The spreadsheet immediately shows how much you’ve taken already.\n1-2 days of leave can be taken without approval if there are no deadlines that are affected (please talk to your team members first about this), but need to be registered.\nLonger leave can be taken in consultation with your team members and manager. If unclear on who your manager is, consult your manager.\n\n\n\n\nIn addition to our internal policies, there are also some legal requirements:\n\nAs an employer we have to make sure that you take at least four non-consecutive weeks off during the year. Also, one of the vacations you request need to be at least 12 consecutive working days.\nIf you get sick while on vacation, please make sure to get a medical certificate for the respective period on the first day of your illness and you get your approved vacation days back. In this case, you must communicate the address you’re staying at to your manager (SMS, WiFi, or postage costs will be covered by Liberate Science).\nPlease make sure to use your vacation days during each calendar year as your vacation days expire at the end of the respective year. If you are unable to use your vacation days for operational or personal reasons (e.g. health, maternity protection or parental leave), you can still use them within the first three months of the next year (i.e. until March 31)."
+    "text": "Summary\n\n\n\nWe have a love-hate relationship with meetings. This policy helps us keep it on the love side and less on the hate side. In short: synchronous meetings need a purpose; be considerate of each other’s time."
+  },
+  {
+    "objectID": "policies/meetings.html#summary-1",
+    "href": "policies/meetings.html#summary-1",
+    "title": "Meeting policy",
+    "section": "Summary",
+    "text": "Summary\n\nMeetings are an activity - if you are not active, ask why you’re there.\n\nMeetings longer than 15 minutes need to have a purpose.\nMeetings longer than 30 minutes need an agenda.\nMeeting minutes are taken by everyone present."
+  },
+  {
+    "objectID": "policies/meetings.html#w",
+    "href": "policies/meetings.html#w",
+    "title": "Meeting policy",
+    "section": "W",
+    "text": "W"
   },
   {
     "objectID": "policies/ip.html",
@@ -266,88 +329,53 @@
     "text": "We commit to not trademark brands and have not since we started in 2019."
   },
   {
-    "objectID": "policies/coc.html",
-    "href": "policies/coc.html",
-    "title": "Code of Conduct",
+    "objectID": "policies/vacation.html",
+    "href": "policies/vacation.html",
+    "title": "Vacation policy",
     "section": "",
-    "text": "Important\n\n\n\nThe general code of conduct is included in ResearchEquals. It applies to all we do at Liberate Science GmbH - we keep it in one place to prevent duplication elsewhere.\n\n\nThe Code of Conduct for Liberate Science GmbH and ResearchEquals helps us mitigate harm and promote joy. We want to create spaces where we collectively thrive, not just survive. This is why the best summary for all of this is: Help yourself and others thrive. This keeps our community safe and secure.\n\n\n\nAdd recusal policy to code of conduct\nImprove processes for collaborators/partners to formally agree to adhering to the CoC\nLink CoC with theory of change\nSeek engagement with other CoCs\n\n\n\n\nThe committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nOne incident reported by committee member. Committee member recused from the process, external advisor hired. Resolved internally with new action items to improve the processes.\n\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]\n\n\n\n\n\n\nSome helpful resources for you:\n\nConflicts of Interest\nCode of Conduct workshop materials (Otter Technology)"
+    "text": "Vacation policy\nVacation days template\n\n\nPolicy\n\n💡 German employment law is rather complex and different regulations can apply for different conditions that might not be fully covered in this document. If you have any questions or concerns, please always feel free to ask your manager about your specific case.\n\n\nInternal policy\n\nThe maximum vacation days is 36 per year (= 288 hours) if you work the full year at 1FTE. If you started during the year the number of days is proportional and probably mentioned in your contract.\nEvery internal employee has a protected page shared only your managers, where the vacation days can be tracked. You have to manually input the number of vacation days taken. One vacation day equals 8 hours. One week off equals 32 hours (4 full work days with 8 hours each). The spreadsheet immediately shows how much you’ve taken already.\n1-2 days of leave can be taken without approval if there are no deadlines that are affected (please talk to your team members first about this), but need to be registered.\nLonger leave can be taken in consultation with your team members and manager. If unclear on who your manager is, consult your manager.\n\n\n\n\nIn addition to our internal policies, there are also some legal requirements:\n\nAs an employer we have to make sure that you take at least four non-consecutive weeks off during the year. Also, one of the vacations you request need to be at least 12 consecutive working days.\nIf you get sick while on vacation, please make sure to get a medical certificate for the respective period on the first day of your illness and you get your approved vacation days back. In this case, you must communicate the address you’re staying at to your manager (SMS, WiFi, or postage costs will be covered by Liberate Science).\nPlease make sure to use your vacation days during each calendar year as your vacation days expire at the end of the respective year. If you are unable to use your vacation days for operational or personal reasons (e.g. health, maternity protection or parental leave), you can still use them within the first three months of the next year (i.e. until March 31)."
   },
   {
-    "objectID": "policies/coc.html#current-action-items",
-    "href": "policies/coc.html#current-action-items",
-    "title": "Code of Conduct",
+    "objectID": "policies/equipment.html",
+    "href": "policies/equipment.html",
+    "title": "Equipment policy",
     "section": "",
-    "text": "Add recusal policy to code of conduct\nImprove processes for collaborators/partners to formally agree to adhering to the CoC\nLink CoC with theory of change\nSeek engagement with other CoCs"
+    "text": "We use equipment for at least four years\nEquipment emissions are part of the purchase decision.\nWe repair instead of replace.\nWe actively minimize our inventory.\nWe aim to provide real-time inventory tracking.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Equipment policy"
   },
   {
-    "objectID": "policies/coc.html#committee-structure",
-    "href": "policies/coc.html#committee-structure",
-    "title": "Code of Conduct",
+    "objectID": "policies/equipment.html#rules",
+    "href": "policies/equipment.html#rules",
+    "title": "Equipment policy",
     "section": "",
-    "text": "The committee ideally consists of four members at any given time. We understand the committee may be smaller or larger at any given time, depending on many factors. Ideally, each member’s tenure is for a maximum of two years.\n\n\n\n\n\n\nInterested in joining?\n\n\n\nWe are currently looking for new committee members! Please view our Jobs page for more information.\n\n\nWe do not take committee member’s volunteer efforts for granted. Even though we cannot provide hourly compensation at this time, we do provide each committee member with a code of conduct training upon joining (worth $350). Committee members also receive a ResearchEquals supporting membership for the duration of their tenure. \n\n\nIn order to enable the community to understand what’s happening, we share the number of reported incidents per quarter. We also may provide updates on our blog if cases are seen as important to be more widely shared.\nWe retroactively created older transparency reports starting May 2023, and will add new events as we go.\n\n\n2023\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nOne incident reported by committee member. Committee member recused from the process, external advisor hired. Resolved internally with new action items to improve the processes.\n\nJuly - September\nOctober - December\n\n\n\n\n2022\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December\n\nOne email informing us about potential issues with one of our clients, retracted after the sender indicated it was incorrectly sent to entire committee.\n\n\n\n\n\n2021\n\n\nJanuary - March [no incidents reported]\nApril - June\n\nIncident report of inappropriate language use on GitHub, resulting in a warning after committee vote on the issue.\n\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2020\n\n\nJanuary - March [no incidents reported]\nApril - June [no incidents reported]\nJuly - September [no incidents reported]\nOctober - December [no incidents reported]\n\n\n\n\n2019\n\n\nOctober - December [no incidents reported]"
+    "text": "We use equipment for at least four years\nEquipment emissions are part of the purchase decision.\nWe repair instead of replace.\nWe actively minimize our inventory.\nWe aim to provide real-time inventory tracking.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Equipment policy"
   },
   {
-    "objectID": "policies/coc.html#resources",
-    "href": "policies/coc.html#resources",
-    "title": "Code of Conduct",
+    "objectID": "policies/events.html",
+    "href": "policies/events.html",
+    "title": "Event policy",
     "section": "",
-    "text": "Some helpful resources for you:\n\nConflicts of Interest\nCode of Conduct workshop materials (Otter Technology)"
+    "text": "We consider any gathering of people, at our request, an event. This also includes travel at our request."
   },
   {
-    "objectID": "policies/wages.html",
-    "href": "policies/wages.html",
-    "title": "Wage transparency",
+    "objectID": "policies/events.html#rules",
+    "href": "policies/events.html#rules",
+    "title": "Event policy",
+    "section": "Rules",
+    "text": "Rules\n\nWe run all our events virtually by default.\nLocal in-person events are permitted when a clear added value is documented.\nEverywhere we can go in 8 hours with public transport is considered local.\nIn-person events only happen with the consent of attendees.\nHybrid events are organized as virtual first.\nThe event policy applies to both internal and external events.\n\n\n\n\n\n\n\nNote\n\n\n\nFor more detailed explanations, see our blog introducing our Event policy"
+  },
+  {
+    "objectID": "researchequals/dependencies.html",
+    "href": "researchequals/dependencies.html",
+    "title": "Software dependencies",
     "section": "",
-    "text": "Wage transparency\nOnce a year, we set our wage sheet collectively. Everybody who is on Liberate Science’s payroll gets to participate in discussions leading up to the changes.\nWage scales are separated for employees and formal directors. Formal directors are registered in the Chamber of Commerce, carry additional obligations and responsibilities, and have different contracts. Directors receive 12 months’ pay, whereas employees receive 12 months’ pay plus an additional 2 (holiday money, prorated according to tenure and paid out in May + December).\n\nHoliday pay is prorated on the basis of employment during the cycles May-May and December-December. For example, if you started on September 1st, you get 4/12th holiday pay in December and 9/12th in May.\n\nEach person in the organization is scaled according to their tenure in years with Liberate Science. During your first year after your start date, you are in scale 1. If you have been with the organization for 5 years, you are in scale 5. Overall, you get a lifetime pay rise of 62% notwithstanding inflation correction or future changes.\n\n\n2024\nTBD\n\n\n2023\nAn increase of ~4.5% across the board compared to the year before.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmployee\n\n\nDirector\n\n\n\n\n\n\n\nYear\nIndex\nMonthly\nYearly\nIndex\nMonthly\nYearly\nRatio D/E\n\n\n1\n100.00%\n€ 3,296.39\n€ 46,149.45\n100.00%\n€ 5,360.00\n€ 64,320.00\n1.39\n\n\n2\n100.00%\n€ 3,296.39\n€ 46,149.45\n100.00%\n€ 5,360.00\n€ 64,320.00\n1.39\n\n\n3\n106.25%\n€ 3,502.41\n€ 49,033.79\n106.25%\n€ 5,695.00\n€ 68,340.00\n1.39\n\n\n4\n106.25%\n€ 3,721.31\n€ 52,098.40\n106.25%\n€ 6,050.94\n€ 72,611.25\n1.39\n\n\n5\n106.25%\n€ 3,953.90\n€ 55,354.55\n106.25%\n€ 6,429.12\n€ 77,149.45\n1.39\n\n\n6\n106.25%\n€ 4,201.02\n€ 58,814.21\n106.25%\n€ 6,830.94\n€ 81,971.29\n1.39\n\n\n7\n106.25%\n€ 4,463.58\n€ 62,490.10\n106.25%\n€ 7,257.87\n€ 87,094.50\n1.39\n\n\n8\n106.25%\n€ 4,742.55\n€ 66,395.73\n106.25%\n€ 7,711.49\n€ 92,537.91\n1.39\n\n\n9\n106.25%\n€ 5,038.96\n€ 70,545.46\n106.25%\n€ 8,193.46\n€ 98,321.53\n1.39\n\n\n10\n106.25%\n€ 5,353.90\n€ 74,954.56\n106.25%\n€ 8,705.55\n€ 104,466.62\n1.39\n\n\nLifetime\n162.00%\n\n\n162.00%\n\n\n2.26\n\n\n\n\n\n2022\n\nAn increase of ~2.5% across the board.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmployee\n\n\nDirector\n\n\n\n\n\n\n\nYear\nIndex\nMonthly\nYearly\nIndex\nMonthly\nYearly\nRatio D/E\n\n\n1\n100.00%\n€ 3,152.21\n€ 44,130.89\n100.00%\n€ 5,125.56\n€ 61,506.67\n1.39\n\n\n2\n100.00%\n€ 3,152.21\n€ 44,130.89\n100.00%\n€ 5,125.56\n€ 61,506.67\n1.39\n\n\n3\n106.25%\n€ 3,349.22\n€ 46,889.07\n106.25%\n€ 5,445.90\n€ 65,350.83\n1.39\n\n\n4\n106.25%\n€ 3,558.55\n€ 49,819.64\n106.25%\n€ 5,786.27\n€ 69,435.26\n1.39\n\n\n5\n106.25%\n€ 3,780.95\n€ 52,933.36\n106.25%\n€ 6,147.91\n€ 73,774.96\n1.39\n\n\n6\n106.25%\n€ 4,017.26\n€ 56,241.70\n106.25%\n€ 6,532.16\n€ 78,385.90\n1.39\n\n\n7\n106.25%\n€ 4,268.34\n€ 59,756.81\n106.25%\n€ 6,940.42\n€ 83,285.02\n1.39\n\n\n8\n106.25%\n€ 4,535.11\n€ 63,491.61\n106.25%\n€ 7,374.19\n€ 88,490.33\n1.39\n\n\n9\n106.25%\n€ 4,818.56\n€ 67,459.83\n106.25%\n€ 7,835.08\n€ 94,020.98\n1.39\n\n\n10\n106.25%\n€ 5,119.72\n€ 71,676.07\n106.25%\n€ 8,324.77\n€ 99,897.29\n1.39\n\n\nLifetime\n162.00%\n\n\n162.00%\n\n\n2.26\n\n\n\n\n\n\n2021\n\nThis was the first documented wage sheet in this style.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmployee\n\n\nDirector\n\n\n\n\n\n\n\nYear\nIndex\nMonthly\nYearly\nIndex\nMonthly\nYearly\nRatio D/E\n\n\n1\n100%\n€ 3.074,99\n€ 43.049,86\n100%\n€ 5.000,00\n€ 60.000,00\n1,39\n\n\n2\n100%\n€ 3.074,99\n€ 43.049,86\n100%\n€ 5.000,00\n€ 60.000,00\n1,39\n\n\n3\n106%\n€ 3.267,18\n€ 45.740,48\n106%\n€ 5.312,50\n€ 63.750,00\n1,39\n\n\n4\n106%\n€ 3.471,38\n€ 48.599,26\n106%\n€ 5.644,53\n€ 67.734,38\n1,39\n\n\n5\n106%\n€ 3.688,34\n€ 51.636,71\n106%\n€ 5.997,31\n€ 71.967,77\n1,39\n\n\n6\n106%\n€ 3.918,86\n€ 54.864,00\n106%\n€ 6.372,15\n€ 76.465,76\n1,39\n\n\n7\n106%\n€ 4.163,79\n€ 58.293,00\n106%\n€ 6.770,41\n€ 81.244,87\n1,39\n\n\n8\n106%\n€ 4.424,02\n€ 61.936,32\n106%\n€ 7.193,56\n€ 86.322,67\n1,39\n\n\n9\n106%\n€ 4.700,52\n€ 65.807,34\n106%\n€ 7.643,15\n€ 91.717,84\n1,39\n\n\n10\n106%\n€ 4.994,31\n€ 69.920,30\n106%\n€ 8.120,85\n€ 97.450,21\n1,39\n\n\nLifetime\n162%\n\n\n162%\n\n\n2,26"
+    "text": "Software dependencies\nWe use a lot of different software to be able to run ResearchEquals. We regularly audit these as well so that we keep it slim, and identify where we can improve our work. We also use this opportunity to identify what projects we may support, to ensure we can keep using them.\n@algolia/autocomplete-js - Can be removed if search is done in-house\n@blitzjs/auth - Required\n@blitzjs/next - Required\n@blitzjs/rpc - Required\n@carbon/icons-react - Only replaceable if icon library is changed\n@faker-js/faker - Used in seeding script. May be moved to devDependencies\n@headlessui/react - Used for overlays. May be removed if everything is on a route\n@prisma/client - Required\n@react-pdf-viewer/core - Required for pdf viewing\n@tailwindcss/forms - Can be looked into how necessary it is\n@uploadcare/react-widget - Required for upload\nalgoliasearch - Can be removed if search is done in-house\nautoprefixer - ???\naxios - Required for submissions to Crossref\nblitz - Required\nclassnames - Can be removed if functionality is made redundant\nconcurrently - Required for deployment\ncrisp-sdk-web - Helpful library\ndagre - ???\nfeed - Used for creating RSS feeds\nfilesize - Filesize indication\nform-data - ???\nformik - Form framework\nhe - ???\nhusky - ???\ni18next - Used for localization, can be removed as not implemented right now (see also Weblate account)\niso-639-1 - ???\nmarkdown-it - Used for various pages /terms\nmoment - ???\nnext - Framework, required\npassport-orcid - Used for login\npdfjs-dist - Used for pdfjs-dist version\npostcss - ???\npostmark - Used for emails\nprisma - Required\nquill - Used for editor, possible to replace after harmonisation\nquirrel - Used for cron jobs\nreact - Required\nreact-confetti - Can be further audited for need\nreact-cookie-consent - Required\nreact-dom - Required\nreact-flow-renderer - ???\nreact-helmet - ???\nreact-hot-toast - Toast generator\nreact-i18next - ???\nreact-markdown - Used for markdown rendering\nreact-media-hook - ???\nreact-quilljs - Editor, can be harmonised\nreact-syntax-highlighter - Used for markdown syntax\nreact-use - ???\nreact-xarrows - ???\nrecharts - /stats\nrecoil - state management - can be improved\nrecoil-persist - state management - can be improved\nrehype-external-links - markdown\nrehype-katex - markdown\nremark-gfm - markdown\nremark-math - markdown\nsecure-password - ???\nstripe - Required\ntailwindcss - Needed\ntypescript - Required\nxast-util-to-xml - can it be moved to devDepencies?\nxml-js - ???\nzod - Validation library"
   },
   {
-    "objectID": "policies/meetings.html",
-    "href": "policies/meetings.html",
-    "title": "Meeting policy",
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
     "section": "",
-    "text": "Summary\n\n\n\nWe have a love-hate relationship with meetings. This policy helps us keep it on the love side and less on the hate side. In short: synchronous meetings need a purpose; be considerate of each other’s time."
-  },
-  {
-    "objectID": "policies/meetings.html#summary-1",
-    "href": "policies/meetings.html#summary-1",
-    "title": "Meeting policy",
-    "section": "Summary",
-    "text": "Summary\n\nMeetings are an activity - if you are not active, ask why you’re there.\n\nMeetings longer than 15 minutes need to have a purpose.\nMeetings longer than 30 minutes need an agenda.\nMeeting minutes are taken by everyone present."
-  },
-  {
-    "objectID": "policies/meetings.html#w",
-    "href": "policies/meetings.html#w",
-    "title": "Meeting policy",
-    "section": "W",
-    "text": "W"
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nReferences\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "researchequals/technical-infrastructure.html",
-    "href": "researchequals/technical-infrastructure.html",
-    "title": "Technical infrastructure",
-    "section": "",
-    "text": "This document contains (almost) all the information about how ResearchEquals is managed.\n\n\nThe DNS records for ResearchEquals are maintained using CloudFlare.\n\n\n\n\n\n\nWarning\n\n\n\nWe’re currently in the process of migrating things over\n\n\nIf you need any updates to the DNS records, please file a ticket in the LibScie Manager.\n\n\n\nThe production services are deployed using Flightcontrol, as connected to our Amazon Web Services account."
-  },
-  {
-    "objectID": "researchequals/technical-infrastructure.html#dns",
-    "href": "researchequals/technical-infrastructure.html#dns",
-    "title": "Technical infrastructure",
-    "section": "",
-    "text": "The DNS records for ResearchEquals are maintained using CloudFlare.\n\n\n\n\n\n\nWarning\n\n\n\nWe’re currently in the process of migrating things over\n\n\nIf you need any updates to the DNS records, please file a ticket in the LibScie Manager."
-  },
-  {
-    "objectID": "researchequals/technical-infrastructure.html#flightcontrol",
-    "href": "researchequals/technical-infrastructure.html#flightcontrol",
-    "title": "Technical infrastructure",
-    "section": "",
-    "text": "The production services are deployed using Flightcontrol, as connected to our Amazon Web Services account."
+    "text": "References"
   },
   {
     "objectID": "summary.html",
@@ -355,6 +383,13 @@
     "title": "Summary",
     "section": "",
     "text": "Summary\nIn summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\n\nReferences\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "onboarding/intro.html",
@@ -448,39 +483,32 @@
     "text": "Saying hello 👋\n\nChris Hartgerink - @chartgerink - I enjoy writing on my personal blog\nMaya Anderson-Gonzalez - [@mayaandersongonzalez(https://github.com/mayaandersongonzalez] - I also enjoy (and wish I had more time for) writing on my personal blog\n\n\n\n\n\n\n\nWant to learn more about git?\n\n\n\nGitHub uses the software git under the hood. Knowing more about this software enables you to realize the potential of this power tool. Here’s a great game to help you get started: https://ohmygit.org/"
   },
   {
-    "objectID": "culture/workweek.html",
-    "href": "culture/workweek.html",
-    "title": "Workweek",
+    "objectID": "culture/celebrate.html",
+    "href": "culture/celebrate.html",
+    "title": "Celebrate",
     "section": "",
-    "text": "Work is a part of your week, and we’d like for that to stay that way. In our culture, we focus the amount of time you spend on work.\n\n\nWe run a four-day workweek (32 hours = full-time). Currently, fridays are our collective day off to do other things!\n\n\n\n\n\n\nTip\n\n\n\nThe four-day workweek is a broader movement and has a lot of benefits. Follow the link if you’d like more information: https://fourdayweek.com/\n\n\nOur regular hours are Monday-Thursday between 7am-8pm, in which you can flexibly allocate your hours. Our main operations timezone is Berlin (Germany; UTC+1 or UTC+2 during summertime).\n\n\n\nWhen you’re off work, you’re off work.\nYou are responsible for setting your own work hours, and when those work hours are over, you can truly unplug from work and are not expected to answer work-related communications. If somebody does pressure you to do so, reach out to the Code of Conduct committee.\nWe actively discourage you from installing any work-related communications (e.g., email) on non-company devices, to help with disconnecting and prevent feelings of having to respond.\n\n\n\n\n\n\nTip\n\n\n\nFor more information, check out the Digital Justice project.\n\n\n\n\n\n\n\nLess time at work means we all have to learn and help each other prioritize. This is a good thing.\nIt also has a lot of implications that may be uncomfortable. Some of you might struggle saying no to things, others might struggle with receiving a no. It means being honest and considerate with your teammates, but also yourself.\nCan you deliver what you promise? Does that meeting really need to involve everyone? Share your journey with your team, and when somebody shares their insecurities, thank them for it.\n\n\n\nYou can take 1-2 personal days at any time, as long as it does not interrupt operations. Longer periods have to be approved by your direct manager and planned at least a month in advance. You are required to take at least 25 days per year\n\n🌳 If you don’t schedule maintenance, it will schedule itself.\n\nNot all time off is PTO. Here are other reasons to take time off while working at Liberate Science:\n\nYou can get up to 6 weeks sick leave. Notify your manager on the first working day you are sick, and get a doctor’s note the same day.\nWe grant 1 day period leave every month for menstruating people.\nWe grant special leave for sick care, bereavement, and other scenarios to the degree we reasonably can given the state of the business."
+    "text": "We like to celebrate things, because it builds our community and allows us to appreciate what we’ve accomplished. Celebrating is a skill, not just an activity. Let’s become professional celebraters!\n\n\n\n\nflowchart LR;\nA[Identify] --&gt; B[Celebrate] --&gt; C[Document]\n\n\n\n\n\n\n\n\nWho are we celebrating?\nWho is celebrating? (Internal, community, external)\nWhat are we celebrating?\nWhy are we celebrating?\nWhere are we celebrating?\n\n\n\n\n\nWhen are we celebrating?\nHow are we celebrating?\n\n\n\n\n\nHow does this fit into the story?\nWhat does it mean to us?\nWhere does this take us?"
   },
   {
-    "objectID": "culture/workweek.html#when-and-how-much",
-    "href": "culture/workweek.html#when-and-how-much",
-    "title": "Workweek",
+    "objectID": "culture/celebrate.html#identify",
+    "href": "culture/celebrate.html#identify",
+    "title": "Celebrate",
     "section": "",
-    "text": "We run a four-day workweek (32 hours = full-time). Currently, fridays are our collective day off to do other things!\n\n\n\n\n\n\nTip\n\n\n\nThe four-day workweek is a broader movement and has a lot of benefits. Follow the link if you’d like more information: https://fourdayweek.com/\n\n\nOur regular hours are Monday-Thursday between 7am-8pm, in which you can flexibly allocate your hours. Our main operations timezone is Berlin (Germany; UTC+1 or UTC+2 during summertime)."
+    "text": "Who are we celebrating?\nWho is celebrating? (Internal, community, external)\nWhat are we celebrating?\nWhy are we celebrating?\nWhere are we celebrating?"
   },
   {
-    "objectID": "culture/workweek.html#right-to-disconnect",
-    "href": "culture/workweek.html#right-to-disconnect",
-    "title": "Workweek",
+    "objectID": "culture/celebrate.html#celebrate-1",
+    "href": "culture/celebrate.html#celebrate-1",
+    "title": "Celebrate",
     "section": "",
-    "text": "When you’re off work, you’re off work.\nYou are responsible for setting your own work hours, and when those work hours are over, you can truly unplug from work and are not expected to answer work-related communications. If somebody does pressure you to do so, reach out to the Code of Conduct committee.\nWe actively discourage you from installing any work-related communications (e.g., email) on non-company devices, to help with disconnecting and prevent feelings of having to respond.\n\n\n\n\n\n\nTip\n\n\n\nFor more information, check out the Digital Justice project."
+    "text": "When are we celebrating?\nHow are we celebrating?"
   },
   {
-    "objectID": "culture/workweek.html#making-the-most-of-it-together",
-    "href": "culture/workweek.html#making-the-most-of-it-together",
-    "title": "Workweek",
+    "objectID": "culture/celebrate.html#document",
+    "href": "culture/celebrate.html#document",
+    "title": "Celebrate",
     "section": "",
-    "text": "Less time at work means we all have to learn and help each other prioritize. This is a good thing.\nIt also has a lot of implications that may be uncomfortable. Some of you might struggle saying no to things, others might struggle with receiving a no. It means being honest and considerate with your teammates, but also yourself.\nCan you deliver what you promise? Does that meeting really need to involve everyone? Share your journey with your team, and when somebody shares their insecurities, thank them for it."
-  },
-  {
-    "objectID": "culture/workweek.html#time-off",
-    "href": "culture/workweek.html#time-off",
-    "title": "Workweek",
-    "section": "",
-    "text": "You can take 1-2 personal days at any time, as long as it does not interrupt operations. Longer periods have to be approved by your direct manager and planned at least a month in advance. You are required to take at least 25 days per year\n\n🌳 If you don’t schedule maintenance, it will schedule itself.\n\nNot all time off is PTO. Here are other reasons to take time off while working at Liberate Science:\n\nYou can get up to 6 weeks sick leave. Notify your manager on the first working day you are sick, and get a doctor’s note the same day.\nWe grant 1 day period leave every month for menstruating people.\nWe grant special leave for sick care, bereavement, and other scenarios to the degree we reasonably can given the state of the business."
+    "text": "How does this fit into the story?\nWhat does it mean to us?\nWhere does this take us?"
   },
   {
     "objectID": "culture/schedule.html",
@@ -511,24 +539,17 @@
     "text": "January\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\nOctober\nNovember\nDecember\n\n\n\n\n\n\nGeneral Assembly\n\n\nGeneral Assembly\n\n\nGeneral Assembly\n\n\nGeneral Assembly"
   },
   {
-    "objectID": "culture/jobs.html",
-    "href": "culture/jobs.html",
-    "title": "Positions",
+    "objectID": "culture/document.html",
+    "href": "culture/document.html",
+    "title": "Building in public",
     "section": "",
-    "text": "Tip\n\n\n\nThis page contains any and all positions that we’re looking to fill at a given time."
+    "text": "Tip\n\n\n\nWe’re working together to get things done - this means sharing what you’re doing. By building in public, you are continuously documenting and communicating about your work.\n\n\nWe maintain a “build in public” mindset throughout Liberate Science’s operations. In order to provide a culture of sharing within the organization, it is vital to share what you are working on. This helps us understand each other’s workloads, what’s going on in the company, and shares your journey with your team. Only by sharing can we have a sense of understanding and help one another. It also helps us hone our communication skills.\n\nSummarized:\n\nWhat you work on is worth sharing\nMake what you share is informative\nInvite people in\n\n\nWhat does “build in public” mean?\nThe work you do is worth sharing. Not just the outputs, but the entire process. That also includes things that you are thinking about, struggling with, or have achieved. It means you do not have to go through this on your own. Gathering diverse perspectives on your issues also helps create new ideas.\n\n\nWe build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
   },
   {
-    "objectID": "culture/jobs.html#paid-positions",
-    "href": "culture/jobs.html#paid-positions",
-    "title": "Positions",
-    "section": "Paid positions",
-    "text": "Paid positions\nNone at this time."
-  },
-  {
-    "objectID": "culture/jobs.html#volunteer-positions",
-    "href": "culture/jobs.html#volunteer-positions",
-    "title": "Positions",
-    "section": "Volunteer positions",
-    "text": "Volunteer positions\n\n\nCommittee member for Code of Conduct\n\nJoining the Code of Conduct committee means you get to shape how our community mitigates harm and promotes joy. The committee helps create spaces where we collectively thrive, not just survive.\nDoes this sound like something you’d be interested in? Read on for more details.\n\nRequirements\n\nYou have demonstable experience in open research.\nYou are cognisant of power dynamics/intersectionality (e.g., implicit biases).\nYou are reliable, self-reflective, empathetic, and comfortable with complexity.\nYou are aware of intercultural sensitivities.\nYou appreciate and have a sense of community.\nYou sign on to our general mission and current code of conduct.\n\n\n\nCommitments\n\n60 minute meeting every quarter, plus 2 hours availability per incident report (2021: 1 report, 2022: no reports)\n5 hours for CoC training workshop\nAdditional commitments at own discretion\nCommit for at least one year, at most two years\n\n\n\nIncentives\n\n$350 Code of Conduct training provided\nAgency in deciding what committee budget gets spent on\nAgency in revising CoC\nOpportunity to cultivate safer communities and transformative justice\nComplimentary ResearchEquals supporting membership for double the duration of committee membership"
+    "objectID": "culture/document.html#how",
+    "href": "culture/document.html#how",
+    "title": "Building in public",
+    "section": "",
+    "text": "We build in public through blog posts.\nAnybody who’s following the Liberate Science blog to stay informed of what we are doing. \nYou can share what you are planning on doing, how things are going, and what you have done. For example, we announced our ResearchEquals Cohorts and six months after we evaluated how things went.\nWriting about our work continuously trains our communication skills, aligns us internally, and keeps us accountable."
   }
 ]
